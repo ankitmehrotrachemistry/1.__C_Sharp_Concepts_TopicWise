@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\bin\Debug\HelloAnkit.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\bin\Debug\HelloAnkit.exe
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\bin\Debug\HelloAnkit.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\obj\Debug\HelloAnkit.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\obj\Debug\HelloAnkit.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\obj\Debug\HelloAnkit.exe
+F:\2). C# XNA Unity3D for Game Programming\1). C# Programming\HelloAnkit\HelloAnkit\obj\Debug\HelloAnkit.pdb
