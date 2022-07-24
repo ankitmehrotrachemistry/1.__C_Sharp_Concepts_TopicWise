@@ -1,1 +1,0 @@
-Generic Classes and Templates Programs. Type<T> Programs.
