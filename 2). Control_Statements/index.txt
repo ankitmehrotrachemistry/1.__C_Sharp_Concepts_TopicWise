@@ -1,0 +1,8 @@
+if-else
+switch statement
+for loop
+while loop
+do-while loop
+break
+continue
+goto
