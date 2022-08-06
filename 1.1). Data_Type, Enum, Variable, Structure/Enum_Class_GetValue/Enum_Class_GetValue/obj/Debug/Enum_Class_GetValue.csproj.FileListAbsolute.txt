@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\bin\Debug\Enum_Class_GetValue.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\bin\Debug\Enum_Class_GetValue.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\bin\Debug\Enum_Class_GetValue.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\obj\Debug\Enum_Class_GetValue.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\obj\Debug\Enum_Class_GetValue.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\obj\Debug\Enum_Class_GetValue.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_Class_GetValue\Enum_Class_GetValue\obj\Debug\Enum_Class_GetValue.pdb

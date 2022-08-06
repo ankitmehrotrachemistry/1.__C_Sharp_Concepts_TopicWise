@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\bin\Debug\Regex_Valid_Website.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\bin\Debug\Regex_Valid_Website.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\bin\Debug\Regex_Valid_Website.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\obj\Debug\Regex_Valid_Website.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\obj\Debug\Regex_Valid_Website.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\obj\Debug\Regex_Valid_Website.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Website\Regex_Valid_Website\obj\Debug\Regex_Valid_Website.pdb

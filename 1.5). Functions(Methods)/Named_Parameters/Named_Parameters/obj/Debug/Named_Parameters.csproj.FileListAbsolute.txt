@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\bin\Debug\Named_Parameters.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Named_Parameters\Named_Parameters\obj\Debug\Named_Parameters.pdb

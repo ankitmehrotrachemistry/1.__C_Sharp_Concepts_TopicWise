@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\bin\Debug\Private_Constructor_Inaccessible.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\bin\Debug\Private_Constructor_Inaccessible.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\bin\Debug\Private_Constructor_Inaccessible.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\obj\Debug\Private_Constructor_Inaccessible.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\obj\Debug\Private_Constructor_Inaccessible.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\obj\Debug\Private_Constructor_Inaccessible.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Private_Constructor_Inaccessible\Private_Constructor_Inaccessible\obj\Debug\Private_Constructor_Inaccessible.pdb

@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\bin\Debug\Generics_With_Class.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\bin\Debug\Generics_With_Class.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\bin\Debug\Generics_With_Class.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\obj\Debug\Generics_With_Class.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\obj\Debug\Generics_With_Class.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\obj\Debug\Generics_With_Class.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generics_With_Class\Generics_With_Class\obj\Debug\Generics_With_Class.pdb

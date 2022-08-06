@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\bin\Debug\Delegate_Anonymous_Method.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\bin\Debug\Delegate_Anonymous_Method.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\bin\Debug\Delegate_Anonymous_Method.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\obj\Debug\Delegate_Anonymous_Method.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\obj\Debug\Delegate_Anonymous_Method.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\obj\Debug\Delegate_Anonymous_Method.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Anonymous_Method\Delegate_Anonymous_Method\obj\Debug\Delegate_Anonymous_Method.pdb

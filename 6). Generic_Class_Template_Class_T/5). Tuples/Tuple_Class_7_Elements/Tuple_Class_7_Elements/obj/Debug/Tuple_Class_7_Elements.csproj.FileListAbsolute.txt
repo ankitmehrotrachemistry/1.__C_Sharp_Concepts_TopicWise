@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\bin\Debug\Tuple_Class_7_Elements.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\bin\Debug\Tuple_Class_7_Elements.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\bin\Debug\Tuple_Class_7_Elements.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\obj\Debug\Tuple_Class_7_Elements.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\obj\Debug\Tuple_Class_7_Elements.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\obj\Debug\Tuple_Class_7_Elements.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_7_Elements\Tuple_Class_7_Elements\obj\Debug\Tuple_Class_7_Elements.pdb
