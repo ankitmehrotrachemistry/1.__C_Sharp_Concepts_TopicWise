@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1J9xOWdBAB/iB5QLb+MbuKH/YXYO/LA2ikmEeOZb/KQf8tT120SFW8961YTnt0ITQX17ZU147Pin8sNoVW21LA==",
+  "success": true,
+  "projectFilePath": "G:\\2). C# Unity3D for Game Programming\\1). Basics of C# Programming\\AbstractClassExample\\AbstractClassExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win 10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
