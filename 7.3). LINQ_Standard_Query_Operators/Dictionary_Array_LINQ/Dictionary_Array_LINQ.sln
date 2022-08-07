@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_Array_LINQ", "Dictionary_Array_LINQ\Dictionary_Array_LINQ.csproj", "{4FF3A801-8241-4AC9-A2FA-8FE601D5A71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF3A801-8241-4AC9-A2FA-8FE601D5A71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF3A801-8241-4AC9-A2FA-8FE601D5A71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF3A801-8241-4AC9-A2FA-8FE601D5A71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF3A801-8241-4AC9-A2FA-8FE601D5A71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2FDCC2-13E5-40FF-996B-80F04E5F2204}
+	EndGlobalSection
+EndGlobal
