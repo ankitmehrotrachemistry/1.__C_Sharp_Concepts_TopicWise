@@ -1,0 +1,14 @@
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.exe.config
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.csproj.AssemblyReference.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp-master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.exe.config
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\bin\Debug\observer-pattern-csharp.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.csproj.AssemblyReference.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Observer-Pattern-Csharp-Master\observer-pattern-csharp\obj\Debug\observer-pattern-csharp.pdb

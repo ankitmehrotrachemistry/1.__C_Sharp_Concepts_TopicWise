@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Evp0/DiOdz4b05GxryA5RJNQodrPmKx4L6yegJLPGm8/ur1BZGLetw5CblKaJqUrKQWrn2vD47kVu6juBGmUig==",
+  "success": true,
+  "projectFilePath": "G:\\2). C# Unity3D for Game Programming\\1). Basics of C# Programming\\InterfaceAndGetSetPropertyDemo\\InterfaceAndGetSetPropertyDemo\\InterfaceAndGetSetPropertyDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win 10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
