@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.pdb

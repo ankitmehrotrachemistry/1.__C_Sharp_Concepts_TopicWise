@@ -1,0 +1,14 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe.config
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\bin\Debug\TriangleNumberPattern.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.csproj.AssemblyReference.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\TriangleNumberPattern\TriangleNumberPattern\obj\Debug\TriangleNumberPattern.pdb

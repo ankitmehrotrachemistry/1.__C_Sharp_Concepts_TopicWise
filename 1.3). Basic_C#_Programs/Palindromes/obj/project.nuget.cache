@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYIcrQPcAtG7kKUfGGNp8phUxVeL9rFZ3tQnGEOPt5xiMnpfyhE4AJ0DZfpvrM5pxWugqgouQCm9cLq2m2Wgyw==",
+  "success": true,
+  "projectFilePath": "G:\\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\\1). Basics of C# Programming\\Palindromes\\Palindromes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win 10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

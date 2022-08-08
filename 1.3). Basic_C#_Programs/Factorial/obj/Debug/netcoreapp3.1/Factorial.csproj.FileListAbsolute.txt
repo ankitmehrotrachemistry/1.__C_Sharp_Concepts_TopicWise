@@ -1,0 +1,26 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache

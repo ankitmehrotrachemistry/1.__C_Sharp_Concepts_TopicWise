@@ -1,0 +1,13 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\bin\Debug\netcoreapp3.1\ObjectClass.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\ObjectClass\obj\Debug\netcoreapp3.1\ObjectClass.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternNumberLadder", "PatternNumberLadder\PatternNumberLadder.csproj", "{36CBC726-9100-45B9-9F74-B33D98FF9201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CBC726-9100-45B9-9F74-B33D98FF9201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CBC726-9100-45B9-9F74-B33D98FF9201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CBC726-9100-45B9-9F74-B33D98FF9201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CBC726-9100-45B9-9F74-B33D98FF9201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87170AEB-A5C8-4FB1-923D-54CF74FD02BA}
+	EndGlobalSection
+EndGlobal

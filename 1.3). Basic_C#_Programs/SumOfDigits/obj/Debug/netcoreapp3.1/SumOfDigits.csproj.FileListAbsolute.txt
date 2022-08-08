@@ -1,0 +1,13 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\C# Coding\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache

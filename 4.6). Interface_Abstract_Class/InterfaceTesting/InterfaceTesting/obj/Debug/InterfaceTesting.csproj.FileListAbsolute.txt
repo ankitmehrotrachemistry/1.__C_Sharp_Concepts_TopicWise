@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\bin\Debug\InterfaceTesting.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\InterfaceTesting\InterfaceTesting\obj\Debug\InterfaceTesting.pdb

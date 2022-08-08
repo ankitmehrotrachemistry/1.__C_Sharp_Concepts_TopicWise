@@ -1,0 +1,13 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

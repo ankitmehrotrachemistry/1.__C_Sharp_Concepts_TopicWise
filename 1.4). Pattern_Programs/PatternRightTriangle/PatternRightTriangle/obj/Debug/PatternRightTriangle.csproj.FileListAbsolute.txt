@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\bin\Debug\PatternRightTriangle.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\bin\Debug\PatternRightTriangle.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\bin\Debug\PatternRightTriangle.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\obj\Debug\PatternRightTriangle.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\obj\Debug\PatternRightTriangle.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\obj\Debug\PatternRightTriangle.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternRightTriangle\PatternRightTriangle\obj\Debug\PatternRightTriangle.pdb
