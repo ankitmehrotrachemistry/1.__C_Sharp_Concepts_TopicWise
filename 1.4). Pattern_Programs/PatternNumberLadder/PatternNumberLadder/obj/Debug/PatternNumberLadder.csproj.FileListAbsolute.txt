@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\bin\Debug\PatternNumberLadder.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\bin\Debug\PatternNumberLadder.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\bin\Debug\PatternNumberLadder.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\obj\Debug\PatternNumberLadder.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\obj\Debug\PatternNumberLadder.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\obj\Debug\PatternNumberLadder.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternNumberLadder\PatternNumberLadder\obj\Debug\PatternNumberLadder.pdb

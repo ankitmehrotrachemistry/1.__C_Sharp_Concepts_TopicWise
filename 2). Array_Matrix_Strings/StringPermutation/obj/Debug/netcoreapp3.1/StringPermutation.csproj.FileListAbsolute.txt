@@ -1,0 +1,13 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\bin\Debug\netcoreapp3.1\StringPermutation.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StringPermutation\obj\Debug\netcoreapp3.1\StringPermutation.genruntimeconfig.cache

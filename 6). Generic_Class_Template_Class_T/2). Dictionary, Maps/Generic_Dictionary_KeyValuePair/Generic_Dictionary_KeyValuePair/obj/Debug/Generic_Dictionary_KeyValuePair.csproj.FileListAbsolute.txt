@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\bin\Debug\Generic_Dictionary_KeyValuePair.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\bin\Debug\Generic_Dictionary_KeyValuePair.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\bin\Debug\Generic_Dictionary_KeyValuePair.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\obj\Debug\Generic_Dictionary_KeyValuePair.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\obj\Debug\Generic_Dictionary_KeyValuePair.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\obj\Debug\Generic_Dictionary_KeyValuePair.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Dictionary_KeyValuePair\Generic_Dictionary_KeyValuePair\obj\Debug\Generic_Dictionary_KeyValuePair.pdb

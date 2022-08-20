@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndGetSetPropertyDemo", "InterfaceAndGetSetPropertyDemo\InterfaceAndGetSetPropertyDemo.csproj", "{B609154B-287F-47A3-A804-3F24BADB0A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B609154B-287F-47A3-A804-3F24BADB0A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B609154B-287F-47A3-A804-3F24BADB0A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B609154B-287F-47A3-A804-3F24BADB0A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B609154B-287F-47A3-A804-3F24BADB0A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D3E160-A6B4-4A67-A0EF-59775E4796C3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\bin\Debug\Disarium_Number.exe.config
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\bin\Debug\Disarium_Number.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\bin\Debug\Disarium_Number.pdb
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\obj\Debug\Disarium_Number.csproj.AssemblyReference.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\obj\Debug\Disarium_Number.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\obj\Debug\Disarium_Number.exe
+G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Disarium_Number\Disarium_Number\obj\Debug\Disarium_Number.pdb

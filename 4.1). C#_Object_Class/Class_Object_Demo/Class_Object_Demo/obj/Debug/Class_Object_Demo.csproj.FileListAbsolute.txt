@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\bin\Debug\Class_Object_Demo.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\bin\Debug\Class_Object_Demo.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\bin\Debug\Class_Object_Demo.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\obj\Debug\Class_Object_Demo.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\obj\Debug\Class_Object_Demo.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\obj\Debug\Class_Object_Demo.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Class_Object_Demo\Class_Object_Demo\obj\Debug\Class_Object_Demo.pdb

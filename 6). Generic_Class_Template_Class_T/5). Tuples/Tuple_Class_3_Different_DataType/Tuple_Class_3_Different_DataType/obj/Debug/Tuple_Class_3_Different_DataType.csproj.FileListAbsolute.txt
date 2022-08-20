@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\bin\Debug\Tuple_Class_3_Different_DataType.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\bin\Debug\Tuple_Class_3_Different_DataType.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\bin\Debug\Tuple_Class_3_Different_DataType.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\obj\Debug\Tuple_Class_3_Different_DataType.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\obj\Debug\Tuple_Class_3_Different_DataType.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\obj\Debug\Tuple_Class_3_Different_DataType.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Tuple_Class_3_Different_DataType\Tuple_Class_3_Different_DataType\obj\Debug\Tuple_Class_3_Different_DataType.pdb

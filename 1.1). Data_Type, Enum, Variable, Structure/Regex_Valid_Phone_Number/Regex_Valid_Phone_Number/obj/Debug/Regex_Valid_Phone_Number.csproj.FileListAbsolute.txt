@@ -1,0 +1,7 @@
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\bin\Debug\Regex_Valid_Phone_Number.exe.config
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\bin\Debug\Regex_Valid_Phone_Number.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\bin\Debug\Regex_Valid_Phone_Number.pdb
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\obj\Debug\Regex_Valid_Phone_Number.csproj.AssemblyReference.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\obj\Debug\Regex_Valid_Phone_Number.csproj.CoreCompileInputs.cache
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\obj\Debug\Regex_Valid_Phone_Number.exe
+G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regex_Valid_Phone_Number\Regex_Valid_Phone_Number\obj\Debug\Regex_Valid_Phone_Number.pdb

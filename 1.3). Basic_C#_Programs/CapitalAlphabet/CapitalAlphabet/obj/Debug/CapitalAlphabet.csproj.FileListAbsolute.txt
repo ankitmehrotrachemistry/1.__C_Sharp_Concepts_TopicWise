@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\bin\Debug\CapitalAlphabet.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\bin\Debug\CapitalAlphabet.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\bin\Debug\CapitalAlphabet.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\obj\Debug\CapitalAlphabet.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\obj\Debug\CapitalAlphabet.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\obj\Debug\CapitalAlphabet.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CapitalAlphabet\CapitalAlphabet\obj\Debug\CapitalAlphabet.pdb

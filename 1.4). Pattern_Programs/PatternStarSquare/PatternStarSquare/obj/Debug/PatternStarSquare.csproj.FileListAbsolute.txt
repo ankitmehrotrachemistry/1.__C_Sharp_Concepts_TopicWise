@@ -1,0 +1,7 @@
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\bin\Debug\PatternStarSquare.exe.config
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\bin\Debug\PatternStarSquare.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\bin\Debug\PatternStarSquare.pdb
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\obj\Debug\PatternStarSquare.csprojAssemblyReference.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\obj\Debug\PatternStarSquare.csproj.CoreCompileInputs.cache
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\obj\Debug\PatternStarSquare.exe
+F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\PatternStarSquare\PatternStarSquare\obj\Debug\PatternStarSquare.pdb

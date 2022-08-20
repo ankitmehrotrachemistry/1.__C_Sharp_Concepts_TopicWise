@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_Set_Constructor_Value", "Get_Set_Constructor_Value\Get_Set_Constructor_Value.csproj", "{7C00D364-4A22-49C9-A5D1-4AAA1E11DCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C00D364-4A22-49C9-A5D1-4AAA1E11DCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C00D364-4A22-49C9-A5D1-4AAA1E11DCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C00D364-4A22-49C9-A5D1-4AAA1E11DCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C00D364-4A22-49C9-A5D1-4AAA1E11DCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0963177B-9EFA-4BF4-91B0-C36FE132B3DE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Implemented_Property", "Auto_Implemented_Property\Auto_Implemented_Property.csproj", "{61B7BDD5-29C5-44D6-A115-03CC8689BDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B7BDD5-29C5-44D6-A115-03CC8689BDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B7BDD5-29C5-44D6-A115-03CC8689BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B7BDD5-29C5-44D6-A115-03CC8689BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B7BDD5-29C5-44D6-A115-03CC8689BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BCB4D14-A557-4C78-9A5C-EAA268B04920}
+	EndGlobalSection
+EndGlobal
