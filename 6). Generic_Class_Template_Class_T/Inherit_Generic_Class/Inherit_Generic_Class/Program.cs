@@ -39,6 +39,7 @@ namespace Inherit_Generic_Class
             Derived_Class<int> der1 = new Derived_Class<int>(4,8);
 
             Console.WriteLine("Derived Class Value = {0}", der1.Value);
+
         }
     }
 }
