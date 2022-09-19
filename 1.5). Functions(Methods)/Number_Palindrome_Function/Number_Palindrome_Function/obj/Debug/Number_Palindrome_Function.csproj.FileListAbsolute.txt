@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\bin\Debug\Number_Palindrome_Function.exe.config
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\bin\Debug\Number_Palindrome_Function.exe
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\bin\Debug\Number_Palindrome_Function.pdb
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\obj\Debug\Number_Palindrome_Function.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\obj\Debug\Number_Palindrome_Function.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\obj\Debug\Number_Palindrome_Function.exe
+G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\Number_Palindrome_Function\Number_Palindrome_Function\obj\Debug\Number_Palindrome_Function.pdb
