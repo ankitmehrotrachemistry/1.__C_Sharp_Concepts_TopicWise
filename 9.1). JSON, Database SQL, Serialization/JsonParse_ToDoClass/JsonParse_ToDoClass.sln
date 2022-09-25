@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParse_ToDoClass", "JsonParse_ToDoClass\JsonParse_ToDoClass.csproj", "{15C733EE-4F76-43B4-9CA5-9FD8D1F24F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C733EE-4F76-43B4-9CA5-9FD8D1F24F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C733EE-4F76-43B4-9CA5-9FD8D1F24F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C733EE-4F76-43B4-9CA5-9FD8D1F24F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C733EE-4F76-43B4-9CA5-9FD8D1F24F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DD729B4-188E-4FC5-A49D-65920B1BF128}
+	EndGlobalSection
+EndGlobal
