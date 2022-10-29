@@ -46,3 +46,10 @@ G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\2DArray\2DAr
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\2DArray\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\2DArray\2DArray\obj\Debug\2DArray.exe
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\2DArray\2DArray\obj\Debug\2DArray.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\bin\Debug\2DArray.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\bin\Debug\2DArray.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\bin\Debug\2DArray.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\obj\Debug\2DArray.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\2DArray\2DArray\obj\Debug\2DArray.pdb

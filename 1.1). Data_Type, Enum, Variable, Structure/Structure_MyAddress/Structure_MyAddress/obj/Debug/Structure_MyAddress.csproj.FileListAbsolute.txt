@@ -1,0 +1,7 @@
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\bin\Debug\Structure_MyAddress.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\bin\Debug\Structure_MyAddress.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\bin\Debug\Structure_MyAddress.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\obj\Debug\Structure_MyAddress.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\obj\Debug\Structure_MyAddress.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\obj\Debug\Structure_MyAddress.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Structure_MyAddress\Structure_MyAddress\obj\Debug\Structure_MyAddress.pdb

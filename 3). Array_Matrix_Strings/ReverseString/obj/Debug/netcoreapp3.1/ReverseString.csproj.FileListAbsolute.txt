@@ -11,3 +11,17 @@ F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\ob
 F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
 F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
 F:\1). Unity3D , C#  for Competitive Programming\C# Programming\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache

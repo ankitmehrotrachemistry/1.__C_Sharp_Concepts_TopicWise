@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\win 10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\ReverseString\\ReverseString.csproj",
+      "projectUniqueName": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\3). Array_Matrix_Strings\\ReverseString\\ReverseString.csproj",
       "projectName": "ReverseString",
-      "projectPath": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\ReverseString\\ReverseString.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\ReverseString\\obj\\",
+      "projectPath": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\3). Array_Matrix_Strings\\ReverseString\\ReverseString.csproj",
+      "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
+      "outputPath": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\3). Array_Matrix_Strings\\ReverseString\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }

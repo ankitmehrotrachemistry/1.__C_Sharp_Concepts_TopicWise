@@ -11,10 +11,8 @@ namespace PatternNumberTriangle
         static void Main(string[] args)
         {
             int i, j, k, l, n;
-
-            Console.Write("Enter the value of n");
+            Console.Write("Enter the value of n : ");
             n = int.Parse(Console.ReadLine());
-
             for (i = 1; i <= n; i++)
             {
                 for (j = 1; j <= n-i; j++)

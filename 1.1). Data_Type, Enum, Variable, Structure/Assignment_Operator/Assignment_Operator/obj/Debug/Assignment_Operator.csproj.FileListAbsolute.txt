@@ -1,0 +1,7 @@
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\bin\Debug\Assignment_Operator.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\bin\Debug\Assignment_Operator.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\bin\Debug\Assignment_Operator.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\obj\Debug\Assignment_Operator.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\obj\Debug\Assignment_Operator.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\obj\Debug\Assignment_Operator.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Assignment_Operator\Assignment_Operator\obj\Debug\Assignment_Operator.pdb

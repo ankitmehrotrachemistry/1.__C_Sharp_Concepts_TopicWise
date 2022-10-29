@@ -11,10 +11,8 @@ namespace PatternNumberDiamond
         static void Main(string[] args)
         {
             int n, i, j, k;
-
-            Console.Write("Enter the value of n");
+            Console.Write("Enter the value of n : ");
             n = int.Parse(Console.ReadLine());
-
             for (i = 1; i < n; i++)
             {
                 for (j = i; j < n; j++)

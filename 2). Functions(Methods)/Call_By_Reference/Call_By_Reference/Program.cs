@@ -21,7 +21,6 @@ namespace Call_By_Reference
             int x = 100;
             IncrementValue(ref x);
             Console.WriteLine(x); // Output : 101
-
             int y = 100;
             IncrementValue2(ref y);
             Console.WriteLine(y); // Output : 101

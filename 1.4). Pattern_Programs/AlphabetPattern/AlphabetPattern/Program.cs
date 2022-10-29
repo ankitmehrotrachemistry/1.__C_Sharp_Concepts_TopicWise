@@ -19,7 +19,7 @@ namespace AlphabetPattern
         static void Main(string[] args)
         {
             int n, s = 1;
-            Console.WriteLine("Number of rows");
+            Console.Write("Number of rows : ");
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {

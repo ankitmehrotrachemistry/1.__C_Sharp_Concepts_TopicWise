@@ -21,11 +21,9 @@ namespace Call_By_Value
             int x = 100;
             IncrementValue(x);
             Console.WriteLine(x);  // Output : 100
-
             int y = 100;
             IncrementValue2(y);
             Console.WriteLine(y);  // Output : 100
-
         }
     }
 }
