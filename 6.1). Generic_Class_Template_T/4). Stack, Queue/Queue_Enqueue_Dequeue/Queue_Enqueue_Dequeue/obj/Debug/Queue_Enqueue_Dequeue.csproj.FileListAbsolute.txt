@@ -5,3 +5,10 @@ G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Queue_Enqueu
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.csproj.CoreCompileInputs.cache
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.exe
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\bin\Debug\Queue_Enqueue_Dequeue.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\bin\Debug\Queue_Enqueue_Dequeue.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\bin\Debug\Queue_Enqueue_Dequeue.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6.1). Generic_Class_Template_T\4). Stack, Queue\Queue_Enqueue_Dequeue\Queue_Enqueue_Dequeue\obj\Debug\Queue_Enqueue_Dequeue.pdb

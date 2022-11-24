@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\C# Coding\\ObjectClass\\ObjectClass.csproj": {}
+    "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\4.1). C#_Object_Class\\ObjectClass\\ObjectClass.csproj": {}
   },
   "projects": {
-    "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\C# Coding\\ObjectClass\\ObjectClass.csproj": {
+    "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\4.1). C#_Object_Class\\ObjectClass\\ObjectClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\C# Coding\\ObjectClass\\ObjectClass.csproj",
+        "projectUniqueName": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\4.1). C#_Object_Class\\ObjectClass\\ObjectClass.csproj",
         "projectName": "ObjectClass",
-        "projectPath": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\C# Coding\\ObjectClass\\ObjectClass.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\1). Unity3D , C#  for Competitive Programming\\C# Programming\\C# Coding\\ObjectClass\\obj\\",
+        "projectPath": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\4.1). C#_Object_Class\\ObjectClass\\ObjectClass.csproj",
+        "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
+        "outputPath": "G:\\2). C#,Unity3D\\C_Sharp_Concepts_TopicWise\\4.1). C#_Object_Class\\ObjectClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

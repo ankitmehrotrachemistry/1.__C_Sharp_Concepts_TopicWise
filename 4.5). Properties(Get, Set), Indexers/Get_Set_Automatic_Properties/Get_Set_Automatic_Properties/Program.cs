@@ -11,7 +11,6 @@ namespace Get_Set_Automatic_Properties
         private string playerName;
         private string playerID;
         private int playerScore;
-
         public string Name
         {
             get { return playerName; }
@@ -30,11 +29,9 @@ namespace Get_Set_Automatic_Properties
         static void Main(string[] args)
         {
             Program p = new Program();
-
             p.Name = "Ankit Mehrotra";
             p.ID = "CO-4";
             p.Score = 1120580;
-
             // String Interpolation in C# using Dollar $ Sign
             Console.WriteLine($"Player Name is : {p.Name}, Player ID is {p.ID}, Player Score is {p.Score}");
         }

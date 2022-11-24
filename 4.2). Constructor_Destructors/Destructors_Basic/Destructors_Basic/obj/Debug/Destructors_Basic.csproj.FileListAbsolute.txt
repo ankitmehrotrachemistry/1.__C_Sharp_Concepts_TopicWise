@@ -1,0 +1,7 @@
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\bin\Debug\Destructors_Basic.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\bin\Debug\Destructors_Basic.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\bin\Debug\Destructors_Basic.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\obj\Debug\Destructors_Basic.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\obj\Debug\Destructors_Basic.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\obj\Debug\Destructors_Basic.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Destructors_Basic\Destructors_Basic\obj\Debug\Destructors_Basic.pdb

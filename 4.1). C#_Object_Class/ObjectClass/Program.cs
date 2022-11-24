@@ -14,7 +14,6 @@ namespace ObjectClass
             Player P = new Player();
             P.score = 100;
             P.name = "Vatoke";
-
             Console.WriteLine(P.score);
             Console.WriteLine(P.name);
         }

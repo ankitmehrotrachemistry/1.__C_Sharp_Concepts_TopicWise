@@ -12,7 +12,6 @@ namespace ConstructorBasic
         public string name;
         public Employee()
         {
-            
         }
     }
     class Program : Employee
@@ -20,10 +19,8 @@ namespace ConstructorBasic
         static void Main(string[] args)
         {
             Program obj = new Program();
-
             obj.age = 12;
             obj.name = "John";
-
             Console.WriteLine("Age is " + obj.age);
             Console.WriteLine("Name is " +obj.name);
         }

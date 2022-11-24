@@ -5,3 +5,10 @@ G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AbstractClas
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb

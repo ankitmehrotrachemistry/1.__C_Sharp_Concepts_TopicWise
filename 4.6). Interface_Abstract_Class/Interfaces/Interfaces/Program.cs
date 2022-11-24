@@ -17,7 +17,6 @@ namespace Interfaces
             Console.WriteLine("Chew Chew..");
         }
     }
-
     public class Cat : Animal
     {
         public void eat()
@@ -30,10 +29,8 @@ namespace Interfaces
         static void Main(string[] args)
         {
             Animal a;
-
             a = new Dog();
             a.eat();
-
             a = new Cat();
             a.eat();
         }

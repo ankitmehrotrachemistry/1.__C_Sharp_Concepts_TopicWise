@@ -11,7 +11,6 @@ namespace Tuple_Class_3_Different_DataType
         static void Main(string[] args)
         {
             var My_Tuple = Tuple.Create("Ankit", 224, 'A');
-
             Console.WriteLine("Element 1 : " + My_Tuple.Item1);
             Console.WriteLine("Element 2 : " + My_Tuple.Item2);
             Console.WriteLine("Element 3 : " + My_Tuple.Item3);

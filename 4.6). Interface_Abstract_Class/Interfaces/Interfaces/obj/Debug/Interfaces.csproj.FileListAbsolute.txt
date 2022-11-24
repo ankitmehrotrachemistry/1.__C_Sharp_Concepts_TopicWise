@@ -5,3 +5,10 @@ G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interfaces\I
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interfaces\Interfaces\obj\Debug\Interfaces.exe
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
