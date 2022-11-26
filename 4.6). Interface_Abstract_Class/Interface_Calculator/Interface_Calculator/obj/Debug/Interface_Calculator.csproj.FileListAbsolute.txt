@@ -5,3 +5,10 @@ G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interface_Ca
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.csproj.CoreCompileInputs.cache
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.exe
 G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\bin\Debug\Interface_Calculator.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\bin\Debug\Interface_Calculator.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\bin\Debug\Interface_Calculator.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Calculator\Interface_Calculator\obj\Debug\Interface_Calculator.pdb

@@ -1,0 +1,7 @@
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\bin\Debug\String_Palindrome.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\bin\Debug\String_Palindrome.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\bin\Debug\String_Palindrome.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\obj\Debug\String_Palindrome.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\obj\Debug\String_Palindrome.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\obj\Debug\String_Palindrome.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\3). Array_Matrix_Strings\String_Palindrome\String_Palindrome\obj\Debug\String_Palindrome.pdb

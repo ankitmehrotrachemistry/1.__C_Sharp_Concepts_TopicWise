@@ -11,8 +11,8 @@ namespace Interface_Calculator
         static void Main(string[] args)
         {
             var calculator = new Calculator();
-
-            Console.WriteLine(calculator.Add(2,6));
+            Console.WriteLine("Addition of Numbers : " + calculator.Add(2,6));
+            Console.WriteLine("Multiplication of Numbers : " + calculator.Multiply(4, 8));
         }
     }
 }

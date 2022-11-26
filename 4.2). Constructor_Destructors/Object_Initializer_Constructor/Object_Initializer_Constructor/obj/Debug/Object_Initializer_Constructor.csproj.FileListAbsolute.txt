@@ -1,0 +1,7 @@
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\bin\Debug\Object_Initializer_Constructor.exe.config
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\bin\Debug\Object_Initializer_Constructor.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\bin\Debug\Object_Initializer_Constructor.pdb
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\obj\Debug\Object_Initializer_Constructor.csproj.AssemblyReference.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\obj\Debug\Object_Initializer_Constructor.csproj.CoreCompileInputs.cache
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\obj\Debug\Object_Initializer_Constructor.exe
+G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.2). Constructor_Destructors\Object_Initializer_Constructor\Object_Initializer_Constructor\obj\Debug\Object_Initializer_Constructor.pdb
