@@ -30,7 +30,6 @@ namespace ICloneable_Interface
         {
             Car car1 = new Car(1200);
             Car car2 = car1.Clone() as Car;
-
             Console.WriteLine("{0}mm", car1);
             Console.WriteLine("{0}mm", car2);
         }
