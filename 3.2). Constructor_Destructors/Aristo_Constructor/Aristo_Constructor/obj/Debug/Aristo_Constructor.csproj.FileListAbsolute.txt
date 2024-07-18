@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\bin\Debug\Aristo_Constructor.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\bin\Debug\Aristo_Constructor.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\bin\Debug\Aristo_Constructor.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\obj\Debug\Aristo_Constructor.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\obj\Debug\Aristo_Constructor.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\obj\Debug\Aristo_Constructor.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_Constructor\Aristo_Constructor\obj\Debug\Aristo_Constructor.pdb

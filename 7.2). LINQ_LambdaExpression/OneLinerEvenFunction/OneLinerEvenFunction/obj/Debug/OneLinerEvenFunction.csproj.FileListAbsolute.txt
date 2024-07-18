@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\bin\Debug\OneLinerEvenFunction.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\bin\Debug\OneLinerEvenFunction.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\bin\Debug\OneLinerEvenFunction.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\obj\Debug\OneLinerEvenFunction.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\obj\Debug\OneLinerEvenFunction.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\obj\Debug\OneLinerEvenFunction.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OneLinerEvenFunction\OneLinerEvenFunction\obj\Debug\OneLinerEvenFunction.pdb

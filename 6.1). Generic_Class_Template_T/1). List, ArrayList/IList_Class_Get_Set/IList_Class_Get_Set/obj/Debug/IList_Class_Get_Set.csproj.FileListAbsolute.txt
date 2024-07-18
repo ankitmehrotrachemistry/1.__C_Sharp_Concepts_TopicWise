@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\bin\Debug\IList_Class_Get_Set.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\bin\Debug\IList_Class_Get_Set.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\bin\Debug\IList_Class_Get_Set.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\obj\Debug\IList_Class_Get_Set.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\obj\Debug\IList_Class_Get_Set.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\obj\Debug\IList_Class_Get_Set.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\IList_Class_Get_Set\IList_Class_Get_Set\obj\Debug\IList_Class_Get_Set.pdb

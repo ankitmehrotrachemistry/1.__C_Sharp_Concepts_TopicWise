@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\bin\Debug\NewKeyword.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\bin\Debug\NewKeyword.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\bin\Debug\NewKeyword.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\obj\Debug\NewKeyword.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\obj\Debug\NewKeyword.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\obj\Debug\NewKeyword.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\NewKeyword\NewKeyword\obj\Debug\NewKeyword.pdb

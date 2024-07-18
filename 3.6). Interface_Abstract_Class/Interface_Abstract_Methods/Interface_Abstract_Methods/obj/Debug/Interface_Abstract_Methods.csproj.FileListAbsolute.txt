@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\bin\Debug\Interface_Abstract_Methods.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\bin\Debug\Interface_Abstract_Methods.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\bin\Debug\Interface_Abstract_Methods.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\obj\Debug\Interface_Abstract_Methods.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\obj\Debug\Interface_Abstract_Methods.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\obj\Debug\Interface_Abstract_Methods.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Interface_Abstract_Methods\Interface_Abstract_Methods\obj\Debug\Interface_Abstract_Methods.pdb

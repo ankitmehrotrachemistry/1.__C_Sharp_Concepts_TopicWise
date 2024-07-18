@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\bin\Debug\Lower_Upper_Triangular_Matrix.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\bin\Debug\Lower_Upper_Triangular_Matrix.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\bin\Debug\Lower_Upper_Triangular_Matrix.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\obj\Debug\Lower_Upper_Triangular_Matrix.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\obj\Debug\Lower_Upper_Triangular_Matrix.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\obj\Debug\Lower_Upper_Triangular_Matrix.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lower_Upper_Triangular_Matrix\Lower_Upper_Triangular_Matrix\obj\Debug\Lower_Upper_Triangular_Matrix.pdb

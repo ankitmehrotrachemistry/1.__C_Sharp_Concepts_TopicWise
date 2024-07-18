@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\bin\Debug\Dictionary_Tuple.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\bin\Debug\Dictionary_Tuple.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\bin\Debug\Dictionary_Tuple.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\obj\Debug\Dictionary_Tuple.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\obj\Debug\Dictionary_Tuple.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\obj\Debug\Dictionary_Tuple.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_Tuple\Dictionary_Tuple\obj\Debug\Dictionary_Tuple.pdb

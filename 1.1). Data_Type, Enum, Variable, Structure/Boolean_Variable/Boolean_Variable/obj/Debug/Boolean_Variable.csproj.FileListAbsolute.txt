@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\bin\Debug\Boolean_Variable.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\bin\Debug\Boolean_Variable.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\bin\Debug\Boolean_Variable.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\obj\Debug\Boolean_Variable.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\obj\Debug\Boolean_Variable.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\obj\Debug\Boolean_Variable.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Boolean_Variable\Boolean_Variable\obj\Debug\Boolean_Variable.pdb

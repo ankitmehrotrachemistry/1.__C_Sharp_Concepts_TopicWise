@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\bin\Debug\Lambda_Expression_OrderBy.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\bin\Debug\Lambda_Expression_OrderBy.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\bin\Debug\Lambda_Expression_OrderBy.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\obj\Debug\Lambda_Expression_OrderBy.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\obj\Debug\Lambda_Expression_OrderBy.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\obj\Debug\Lambda_Expression_OrderBy.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Lambda_Expression_OrderBy\Lambda_Expression_OrderBy\obj\Debug\Lambda_Expression_OrderBy.pdb

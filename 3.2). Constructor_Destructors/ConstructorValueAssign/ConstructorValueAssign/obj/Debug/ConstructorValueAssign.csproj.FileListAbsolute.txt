@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\bin\Debug\ConstructorValueAssign.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\bin\Debug\ConstructorValueAssign.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\bin\Debug\ConstructorValueAssign.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\obj\Debug\ConstructorValueAssign.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\obj\Debug\ConstructorValueAssign.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\obj\Debug\ConstructorValueAssign.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ConstructorValueAssign\ConstructorValueAssign\obj\Debug\ConstructorValueAssign.pdb

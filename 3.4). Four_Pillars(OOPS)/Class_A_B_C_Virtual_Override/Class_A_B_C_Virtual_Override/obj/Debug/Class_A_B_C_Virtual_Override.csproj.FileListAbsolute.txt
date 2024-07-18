@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\bin\Debug\Class_A_B_C_Virtual_Override.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\bin\Debug\Class_A_B_C_Virtual_Override.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\bin\Debug\Class_A_B_C_Virtual_Override.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\obj\Debug\Class_A_B_C_Virtual_Override.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\obj\Debug\Class_A_B_C_Virtual_Override.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\obj\Debug\Class_A_B_C_Virtual_Override.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Class_A_B_C_Virtual_Override\Class_A_B_C_Virtual_Override\obj\Debug\Class_A_B_C_Virtual_Override.pdb

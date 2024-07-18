@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\bin\Debug\Enum_In_Class.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\bin\Debug\Enum_In_Class.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\bin\Debug\Enum_In_Class.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\obj\Debug\Enum_In_Class.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\obj\Debug\Enum_In_Class.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\obj\Debug\Enum_In_Class.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Enum_In_Class\Enum_In_Class\obj\Debug\Enum_In_Class.pdb

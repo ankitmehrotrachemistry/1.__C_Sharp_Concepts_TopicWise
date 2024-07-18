@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\bin\Debug\AddNoOperator.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\bin\Debug\AddNoOperator.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\bin\Debug\AddNoOperator.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\obj\Debug\AddNoOperator.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\obj\Debug\AddNoOperator.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\obj\Debug\AddNoOperator.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AddNoOperator\AddNoOperator\obj\Debug\AddNoOperator.pdb

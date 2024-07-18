@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\bin\Debug\Abstract_Method_Payment.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\bin\Debug\Abstract_Method_Payment.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\bin\Debug\Abstract_Method_Payment.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\obj\Debug\Abstract_Method_Payment.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\obj\Debug\Abstract_Method_Payment.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\obj\Debug\Abstract_Method_Payment.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Abstract_Method_Payment\Abstract_Method_Payment\obj\Debug\Abstract_Method_Payment.pdb

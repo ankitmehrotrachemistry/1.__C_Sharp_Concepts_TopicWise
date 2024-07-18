@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\bin\Debug\LINQ_Select_Distinct_List.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\bin\Debug\LINQ_Select_Distinct_List.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\bin\Debug\LINQ_Select_Distinct_List.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\obj\Debug\LINQ_Select_Distinct_List.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\obj\Debug\LINQ_Select_Distinct_List.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\obj\Debug\LINQ_Select_Distinct_List.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Select_Distinct_List\LINQ_Select_Distinct_List\obj\Debug\LINQ_Select_Distinct_List.pdb

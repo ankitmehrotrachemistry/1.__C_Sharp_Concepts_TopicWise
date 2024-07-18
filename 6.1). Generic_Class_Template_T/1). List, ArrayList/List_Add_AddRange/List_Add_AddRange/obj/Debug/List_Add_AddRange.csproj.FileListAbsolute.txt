@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\bin\Debug\List_Add_AddRange.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\bin\Debug\List_Add_AddRange.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\bin\Debug\List_Add_AddRange.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\obj\Debug\List_Add_AddRange.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\obj\Debug\List_Add_AddRange.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\obj\Debug\List_Add_AddRange.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\List_Add_AddRange\List_Add_AddRange\obj\Debug\List_Add_AddRange.pdb

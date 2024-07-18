@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\bin\Debug\Aristo_InterfaceDemo.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\bin\Debug\Aristo_InterfaceDemo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\bin\Debug\Aristo_InterfaceDemo.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\obj\Debug\Aristo_InterfaceDemo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\obj\Debug\Aristo_InterfaceDemo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\obj\Debug\Aristo_InterfaceDemo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Aristo_InterfaceDemo\Aristo_InterfaceDemo\obj\Debug\Aristo_InterfaceDemo.pdb

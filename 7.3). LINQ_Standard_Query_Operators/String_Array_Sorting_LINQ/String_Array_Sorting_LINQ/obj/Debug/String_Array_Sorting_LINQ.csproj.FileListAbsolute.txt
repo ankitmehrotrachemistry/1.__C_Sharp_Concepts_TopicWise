@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\bin\Debug\String_Array_Sorting_LINQ.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\bin\Debug\String_Array_Sorting_LINQ.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\bin\Debug\String_Array_Sorting_LINQ.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\obj\Debug\String_Array_Sorting_LINQ.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\obj\Debug\String_Array_Sorting_LINQ.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\obj\Debug\String_Array_Sorting_LINQ.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\String_Array_Sorting_LINQ\String_Array_Sorting_LINQ\obj\Debug\String_Array_Sorting_LINQ.pdb

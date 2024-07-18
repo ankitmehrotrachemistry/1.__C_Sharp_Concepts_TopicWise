@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\ListCollectionsDemo.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\ListCollectionsDemo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\bin\Debug\ListCollectionsDemo.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\ListCollectionsDemo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\ListCollectionsDemo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\ListCollectionsDemo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionsDemo\ListCollectionsDemo\obj\Debug\ListCollectionsDemo.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\bin\Debug\AnonymousTypeLINQ.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\bin\Debug\AnonymousTypeLINQ.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\bin\Debug\AnonymousTypeLINQ.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\obj\Debug\AnonymousTypeLINQ.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\obj\Debug\AnonymousTypeLINQ.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\obj\Debug\AnonymousTypeLINQ.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\AnonymousTypeLINQ\AnonymousTypeLINQ\obj\Debug\AnonymousTypeLINQ.pdb

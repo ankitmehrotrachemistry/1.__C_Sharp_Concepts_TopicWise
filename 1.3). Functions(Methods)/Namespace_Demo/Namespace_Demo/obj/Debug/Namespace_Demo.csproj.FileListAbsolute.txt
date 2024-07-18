@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\bin\Debug\Namespace_Demo.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\bin\Debug\Namespace_Demo.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\bin\Debug\Namespace_Demo.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\obj\Debug\Namespace_Demo.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\obj\Debug\Namespace_Demo.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\obj\Debug\Namespace_Demo.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\2). Functions(Methods)\Namespace_Demo\Namespace_Demo\obj\Debug\Namespace_Demo.pdb

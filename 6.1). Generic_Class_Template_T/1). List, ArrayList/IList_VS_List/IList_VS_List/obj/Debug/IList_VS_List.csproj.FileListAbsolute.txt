@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\bin\Debug\IList_VS_List.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\bin\Debug\IList_VS_List.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\bin\Debug\IList_VS_List.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\obj\Debug\IList_VS_List.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\obj\Debug\IList_VS_List.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\obj\Debug\IList_VS_List.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IList_VS_List\IList_VS_List\obj\Debug\IList_VS_List.pdb

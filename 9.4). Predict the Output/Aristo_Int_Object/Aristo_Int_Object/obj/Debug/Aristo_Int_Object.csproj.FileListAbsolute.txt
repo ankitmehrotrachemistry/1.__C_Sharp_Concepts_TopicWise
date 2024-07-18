@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\bin\Debug\Aristo_Int_Object.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\bin\Debug\Aristo_Int_Object.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\bin\Debug\Aristo_Int_Object.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\obj\Debug\Aristo_Int_Object.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\obj\Debug\Aristo_Int_Object.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\obj\Debug\Aristo_Int_Object.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\9.4). Predict the Output\Aristo_Int_Object\Aristo_Int_Object\obj\Debug\Aristo_Int_Object.pdb

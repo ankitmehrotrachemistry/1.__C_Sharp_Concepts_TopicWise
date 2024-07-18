@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\bin\Debug\IEnumerable_Demo.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\bin\Debug\IEnumerable_Demo.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\bin\Debug\IEnumerable_Demo.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\obj\Debug\IEnumerable_Demo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\obj\Debug\IEnumerable_Demo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\obj\Debug\IEnumerable_Demo.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\IEnumerable_Demo\IEnumerable_Demo\obj\Debug\IEnumerable_Demo.pdb

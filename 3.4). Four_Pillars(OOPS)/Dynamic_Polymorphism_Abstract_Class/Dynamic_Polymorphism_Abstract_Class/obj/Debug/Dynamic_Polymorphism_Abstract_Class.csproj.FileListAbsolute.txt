@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\bin\Debug\Dynamic_Polymorphism_Abstract_Class.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\bin\Debug\Dynamic_Polymorphism_Abstract_Class.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\bin\Debug\Dynamic_Polymorphism_Abstract_Class.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\obj\Debug\Dynamic_Polymorphism_Abstract_Class.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\obj\Debug\Dynamic_Polymorphism_Abstract_Class.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\obj\Debug\Dynamic_Polymorphism_Abstract_Class.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Abstract_Class\Dynamic_Polymorphism_Abstract_Class\obj\Debug\Dynamic_Polymorphism_Abstract_Class.pdb

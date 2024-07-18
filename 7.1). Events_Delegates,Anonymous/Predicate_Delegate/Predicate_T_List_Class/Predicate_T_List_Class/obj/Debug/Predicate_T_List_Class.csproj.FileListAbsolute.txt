@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\bin\Debug\Predicate_T_List_Class.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\bin\Debug\Predicate_T_List_Class.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\bin\Debug\Predicate_T_List_Class.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\obj\Debug\Predicate_T_List_Class.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\obj\Debug\Predicate_T_List_Class.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\obj\Debug\Predicate_T_List_Class.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Predicate_T_List_Class\Predicate_T_List_Class\obj\Debug\Predicate_T_List_Class.pdb

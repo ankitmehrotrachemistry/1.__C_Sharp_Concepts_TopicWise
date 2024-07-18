@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\bin\Debug\Generic_Interface.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\bin\Debug\Generic_Interface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\bin\Debug\Generic_Interface.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\obj\Debug\Generic_Interface.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\obj\Debug\Generic_Interface.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\obj\Debug\Generic_Interface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Interface\Generic_Interface\obj\Debug\Generic_Interface.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\bin\Debug\Queryable_Average_LINQ.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\bin\Debug\Queryable_Average_LINQ.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\bin\Debug\Queryable_Average_LINQ.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\obj\Debug\Queryable_Average_LINQ.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\obj\Debug\Queryable_Average_LINQ.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\obj\Debug\Queryable_Average_LINQ.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Queryable_Average_LINQ\Queryable_Average_LINQ\obj\Debug\Queryable_Average_LINQ.pdb

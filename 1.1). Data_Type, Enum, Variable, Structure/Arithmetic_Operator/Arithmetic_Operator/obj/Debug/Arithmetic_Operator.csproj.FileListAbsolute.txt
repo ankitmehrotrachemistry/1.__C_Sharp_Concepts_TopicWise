@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\bin\Debug\Arithmetic_Operator.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\bin\Debug\Arithmetic_Operator.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\bin\Debug\Arithmetic_Operator.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\obj\Debug\Arithmetic_Operator.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\obj\Debug\Arithmetic_Operator.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\obj\Debug\Arithmetic_Operator.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Arithmetic_Operator\Arithmetic_Operator\obj\Debug\Arithmetic_Operator.pdb

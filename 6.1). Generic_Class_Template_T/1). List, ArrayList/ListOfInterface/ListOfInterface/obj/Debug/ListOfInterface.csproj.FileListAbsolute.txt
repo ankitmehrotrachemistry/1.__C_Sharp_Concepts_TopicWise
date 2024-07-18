@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\bin\Debug\ListOfInterface.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\bin\Debug\ListOfInterface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\bin\Debug\ListOfInterface.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\obj\Debug\ListOfInterface.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\obj\Debug\ListOfInterface.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\obj\Debug\ListOfInterface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ListOfInterface\ListOfInterface\obj\Debug\ListOfInterface.pdb

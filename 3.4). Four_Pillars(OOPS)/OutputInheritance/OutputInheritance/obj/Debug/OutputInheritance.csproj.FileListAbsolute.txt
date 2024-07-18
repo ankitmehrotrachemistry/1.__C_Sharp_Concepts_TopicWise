@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\bin\Debug\OutputInheritance.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\bin\Debug\OutputInheritance.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\bin\Debug\OutputInheritance.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\obj\Debug\OutputInheritance.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\obj\Debug\OutputInheritance.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\obj\Debug\OutputInheritance.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OutputInheritance\OutputInheritance\obj\Debug\OutputInheritance.pdb

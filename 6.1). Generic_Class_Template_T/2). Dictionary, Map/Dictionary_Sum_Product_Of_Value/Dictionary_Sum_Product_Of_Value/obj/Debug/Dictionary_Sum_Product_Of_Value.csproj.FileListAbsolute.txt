@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\bin\Debug\Dictionary_Sum_Product_Of_Value.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\bin\Debug\Dictionary_Sum_Product_Of_Value.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\bin\Debug\Dictionary_Sum_Product_Of_Value.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\obj\Debug\Dictionary_Sum_Product_Of_Value.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\obj\Debug\Dictionary_Sum_Product_Of_Value.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\obj\Debug\Dictionary_Sum_Product_Of_Value.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Sum_Product_Of_Value\Dictionary_Sum_Product_Of_Value\obj\Debug\Dictionary_Sum_Product_Of_Value.pdb

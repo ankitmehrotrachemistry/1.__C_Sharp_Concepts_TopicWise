@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\bin\Debug\DelegateCustom.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\bin\Debug\DelegateCustom.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\bin\Debug\DelegateCustom.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\obj\Debug\DelegateCustom.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\obj\Debug\DelegateCustom.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\obj\Debug\DelegateCustom.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\DelegateCustom\DelegateCustom\obj\Debug\DelegateCustom.pdb

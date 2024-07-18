@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\bin\Debug\Factory_Design_Pattern.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\bin\Debug\Factory_Design_Pattern.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\bin\Debug\Factory_Design_Pattern.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\obj\Debug\Factory_Design_Pattern.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\obj\Debug\Factory_Design_Pattern.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\obj\Debug\Factory_Design_Pattern.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Factory_Design_Pattern\Factory_Design_Pattern\obj\Debug\Factory_Design_Pattern.pdb

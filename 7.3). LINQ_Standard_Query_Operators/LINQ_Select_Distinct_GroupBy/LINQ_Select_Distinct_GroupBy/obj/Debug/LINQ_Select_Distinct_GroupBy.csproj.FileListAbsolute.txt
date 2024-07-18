@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\bin\Debug\LINQ_Select_Distinct_GroupBy.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\bin\Debug\LINQ_Select_Distinct_GroupBy.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\bin\Debug\LINQ_Select_Distinct_GroupBy.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\obj\Debug\LINQ_Select_Distinct_GroupBy.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\obj\Debug\LINQ_Select_Distinct_GroupBy.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\obj\Debug\LINQ_Select_Distinct_GroupBy.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Select_Distinct_GroupBy\LINQ_Select_Distinct_GroupBy\obj\Debug\LINQ_Select_Distinct_GroupBy.pdb

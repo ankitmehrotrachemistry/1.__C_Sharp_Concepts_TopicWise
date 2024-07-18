@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\bin\Debug\LINQ_Skip_OrderByDescending.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\bin\Debug\LINQ_Skip_OrderByDescending.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\bin\Debug\LINQ_Skip_OrderByDescending.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\obj\Debug\LINQ_Skip_OrderByDescending.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\obj\Debug\LINQ_Skip_OrderByDescending.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\obj\Debug\LINQ_Skip_OrderByDescending.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_Skip_OrderByDescending\LINQ_Skip_OrderByDescending\obj\Debug\LINQ_Skip_OrderByDescending.pdb

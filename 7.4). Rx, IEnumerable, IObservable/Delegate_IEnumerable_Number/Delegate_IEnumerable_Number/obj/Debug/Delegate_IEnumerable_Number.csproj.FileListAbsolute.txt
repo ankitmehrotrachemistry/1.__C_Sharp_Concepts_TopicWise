@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\bin\Debug\Delegate_IEnumerable_Number.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\bin\Debug\Delegate_IEnumerable_Number.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\bin\Debug\Delegate_IEnumerable_Number.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\obj\Debug\Delegate_IEnumerable_Number.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\obj\Debug\Delegate_IEnumerable_Number.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\obj\Debug\Delegate_IEnumerable_Number.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_IEnumerable_Number\Delegate_IEnumerable_Number\obj\Debug\Delegate_IEnumerable_Number.pdb

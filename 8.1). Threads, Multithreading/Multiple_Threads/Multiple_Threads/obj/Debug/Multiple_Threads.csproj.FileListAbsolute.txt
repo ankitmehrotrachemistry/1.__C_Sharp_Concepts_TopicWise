@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\bin\Debug\Multiple_Threads.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\bin\Debug\Multiple_Threads.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\bin\Debug\Multiple_Threads.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\obj\Debug\Multiple_Threads.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\obj\Debug\Multiple_Threads.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\obj\Debug\Multiple_Threads.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\8.1). Threads, Multithreading\Multiple_Threads\Multiple_Threads\obj\Debug\Multiple_Threads.pdb

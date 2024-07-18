@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\bin\Debug\LINQ_AsEnumerable_Contains_List.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\bin\Debug\LINQ_AsEnumerable_Contains_List.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\bin\Debug\LINQ_AsEnumerable_Contains_List.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\obj\Debug\LINQ_AsEnumerable_Contains_List.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\obj\Debug\LINQ_AsEnumerable_Contains_List.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\obj\Debug\LINQ_AsEnumerable_Contains_List.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_AsEnumerable_Contains_List\LINQ_AsEnumerable_Contains_List\obj\Debug\LINQ_AsEnumerable_Contains_List.pdb

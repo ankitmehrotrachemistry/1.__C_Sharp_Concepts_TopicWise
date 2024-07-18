@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\bin\Debug\Copy_Elements_Of_Array_To_Other.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\bin\Debug\Copy_Elements_Of_Array_To_Other.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\bin\Debug\Copy_Elements_Of_Array_To_Other.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\obj\Debug\Copy_Elements_Of_Array_To_Other.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\obj\Debug\Copy_Elements_Of_Array_To_Other.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\obj\Debug\Copy_Elements_Of_Array_To_Other.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Copy_Elements_Of_Array_To_Other\Copy_Elements_Of_Array_To_Other\obj\Debug\Copy_Elements_Of_Array_To_Other.pdb

@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\bin\Debug\Ternary_Operator.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\bin\Debug\Ternary_Operator.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\bin\Debug\Ternary_Operator.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\obj\Debug\Ternary_Operator.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\obj\Debug\Ternary_Operator.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\obj\Debug\Ternary_Operator.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.1). Data_Type, Enum, Variable, Structure\Ternary_Operator\Ternary_Operator\obj\Debug\Ternary_Operator.pdb

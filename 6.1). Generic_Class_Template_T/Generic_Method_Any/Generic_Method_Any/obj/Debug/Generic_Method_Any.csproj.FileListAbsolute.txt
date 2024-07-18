@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\bin\Debug\Generic_Method_Any.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\bin\Debug\Generic_Method_Any.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\bin\Debug\Generic_Method_Any.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\obj\Debug\Generic_Method_Any.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\obj\Debug\Generic_Method_Any.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\obj\Debug\Generic_Method_Any.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Method_Any\Generic_Method_Any\obj\Debug\Generic_Method_Any.pdb

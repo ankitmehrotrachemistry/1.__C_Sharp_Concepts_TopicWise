@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\bin\Debug\CharacterFreqString.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\bin\Debug\CharacterFreqString.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\bin\Debug\CharacterFreqString.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\obj\Debug\CharacterFreqString.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\obj\Debug\CharacterFreqString.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\obj\Debug\CharacterFreqString.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\CharacterFreqString\CharacterFreqString\obj\Debug\CharacterFreqString.pdb

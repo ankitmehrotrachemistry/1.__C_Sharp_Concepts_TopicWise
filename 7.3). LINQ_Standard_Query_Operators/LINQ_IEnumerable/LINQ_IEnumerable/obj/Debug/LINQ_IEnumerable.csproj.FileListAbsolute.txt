@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\bin\Debug\LINQ_IEnumerable.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\bin\Debug\LINQ_IEnumerable.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\bin\Debug\LINQ_IEnumerable.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\obj\Debug\LINQ_IEnumerable.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\obj\Debug\LINQ_IEnumerable.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\obj\Debug\LINQ_IEnumerable.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LINQ_IEnumerable\LINQ_IEnumerable\obj\Debug\LINQ_IEnumerable.pdb

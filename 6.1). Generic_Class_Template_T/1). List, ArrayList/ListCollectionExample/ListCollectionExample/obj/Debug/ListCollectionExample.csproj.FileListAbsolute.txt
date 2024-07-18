@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\bin\Debug\ListCollectionExample.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\bin\Debug\ListCollectionExample.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\bin\Debug\ListCollectionExample.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\obj\Debug\ListCollectionExample.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\obj\Debug\ListCollectionExample.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\obj\Debug\ListCollectionExample.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\ListCollectionExample\ListCollectionExample\obj\Debug\ListCollectionExample.pdb

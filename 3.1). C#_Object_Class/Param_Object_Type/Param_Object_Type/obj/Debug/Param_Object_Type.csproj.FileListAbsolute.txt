@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\bin\Debug\Param_Object_Type.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\bin\Debug\Param_Object_Type.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\bin\Debug\Param_Object_Type.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\obj\Debug\Param_Object_Type.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\obj\Debug\Param_Object_Type.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\obj\Debug\Param_Object_Type.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Param_Object_Type\Param_Object_Type\obj\Debug\Param_Object_Type.pdb

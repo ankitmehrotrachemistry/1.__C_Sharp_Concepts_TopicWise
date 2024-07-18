@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\bin\Debug\Static_Method_Variable.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\bin\Debug\Static_Method_Variable.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\bin\Debug\Static_Method_Variable.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\obj\Debug\Static_Method_Variable.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\obj\Debug\Static_Method_Variable.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\obj\Debug\Static_Method_Variable.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Static_Method_Variable\Static_Method_Variable\obj\Debug\Static_Method_Variable.pdb

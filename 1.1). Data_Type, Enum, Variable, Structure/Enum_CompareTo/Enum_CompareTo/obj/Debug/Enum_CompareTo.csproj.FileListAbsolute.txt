@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\bin\Debug\Enum_CompareTo.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\bin\Debug\Enum_CompareTo.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\bin\Debug\Enum_CompareTo.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\obj\Debug\Enum_CompareTo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\obj\Debug\Enum_CompareTo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\obj\Debug\Enum_CompareTo.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_CompareTo\Enum_CompareTo\obj\Debug\Enum_CompareTo.pdb

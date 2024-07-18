@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\bin\Debug\Animal_Inheritance.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\bin\Debug\Animal_Inheritance.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\bin\Debug\Animal_Inheritance.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\obj\Debug\Animal_Inheritance.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\obj\Debug\Animal_Inheritance.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\obj\Debug\Animal_Inheritance.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Animal_Inheritance\Animal_Inheritance\obj\Debug\Animal_Inheritance.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\bin\Debug\LINQ_Read_Character_From_Select.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\bin\Debug\LINQ_Read_Character_From_Select.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\bin\Debug\LINQ_Read_Character_From_Select.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\obj\Debug\LINQ_Read_Character_From_Select.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\obj\Debug\LINQ_Read_Character_From_Select.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\obj\Debug\LINQ_Read_Character_From_Select.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\LINQ_Read_Character_From_Select\LINQ_Read_Character_From_Select\obj\Debug\LINQ_Read_Character_From_Select.pdb

@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\bin\Debug\TimeConstructorExample.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\bin\Debug\TimeConstructorExample.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\bin\Debug\TimeConstructorExample.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\obj\Debug\TimeConstructorExample.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\obj\Debug\TimeConstructorExample.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\obj\Debug\TimeConstructorExample.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\TimeConstructorExample\TimeConstructorExample\obj\Debug\TimeConstructorExample.pdb

@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\bin\Debug\Anonymous_Type_Object.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\bin\Debug\Anonymous_Type_Object.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\bin\Debug\Anonymous_Type_Object.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\obj\Debug\Anonymous_Type_Object.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\obj\Debug\Anonymous_Type_Object.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\obj\Debug\Anonymous_Type_Object.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.5). Properties(Get, Set), Indexers\Anonymous_Type_Object\Anonymous_Type_Object\obj\Debug\Anonymous_Type_Object.pdb

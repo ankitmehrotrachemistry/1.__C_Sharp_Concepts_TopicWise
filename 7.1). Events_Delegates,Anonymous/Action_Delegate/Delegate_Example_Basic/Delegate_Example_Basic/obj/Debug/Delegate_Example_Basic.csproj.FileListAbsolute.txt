@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\bin\Debug\Delegate_Example_Basic.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\bin\Debug\Delegate_Example_Basic.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\bin\Debug\Delegate_Example_Basic.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\obj\Debug\Delegate_Example_Basic.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\obj\Debug\Delegate_Example_Basic.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\obj\Debug\Delegate_Example_Basic.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Delegate_Example_Basic\Delegate_Example_Basic\obj\Debug\Delegate_Example_Basic.pdb

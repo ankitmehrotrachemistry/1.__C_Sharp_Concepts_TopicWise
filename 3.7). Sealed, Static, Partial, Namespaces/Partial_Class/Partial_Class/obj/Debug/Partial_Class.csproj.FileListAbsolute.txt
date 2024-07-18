@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\bin\Debug\Partial_Class.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\bin\Debug\Partial_Class.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\bin\Debug\Partial_Class.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\obj\Debug\Partial_Class.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\obj\Debug\Partial_Class.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\obj\Debug\Partial_Class.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.7). Sealed, Static, Partial, Namespaces\Partial_Class\Partial_Class\obj\Debug\Partial_Class.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\bin\Debug\Inheritance_In_Constructor.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\bin\Debug\Inheritance_In_Constructor.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\bin\Debug\Inheritance_In_Constructor.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\obj\Debug\Inheritance_In_Constructor.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\obj\Debug\Inheritance_In_Constructor.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\obj\Debug\Inheritance_In_Constructor.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_In_Constructor\Inheritance_In_Constructor\obj\Debug\Inheritance_In_Constructor.pdb

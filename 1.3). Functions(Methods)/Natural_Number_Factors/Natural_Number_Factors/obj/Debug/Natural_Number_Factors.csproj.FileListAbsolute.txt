@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\bin\Debug\Natural_Number_Factors.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\bin\Debug\Natural_Number_Factors.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\bin\Debug\Natural_Number_Factors.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\obj\Debug\Natural_Number_Factors.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\obj\Debug\Natural_Number_Factors.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\obj\Debug\Natural_Number_Factors.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Natural_Number_Factors\Natural_Number_Factors\obj\Debug\Natural_Number_Factors.pdb

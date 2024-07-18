@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\bin\Debug\SmallAndSecondSmall.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\bin\Debug\SmallAndSecondSmall.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\bin\Debug\SmallAndSecondSmall.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\obj\Debug\SmallAndSecondSmall.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\obj\Debug\SmallAndSecondSmall.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\obj\Debug\SmallAndSecondSmall.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\SmallAndSecondSmall\SmallAndSecondSmall\obj\Debug\SmallAndSecondSmall.pdb

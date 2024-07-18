@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\bin\Debug\Action_Delegate_Power_Of_Number.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\bin\Debug\Action_Delegate_Power_Of_Number.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\bin\Debug\Action_Delegate_Power_Of_Number.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\obj\Debug\Action_Delegate_Power_Of_Number.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\obj\Debug\Action_Delegate_Power_Of_Number.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\obj\Debug\Action_Delegate_Power_Of_Number.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Delegate_Power_Of_Number\Action_Delegate_Power_Of_Number\obj\Debug\Action_Delegate_Power_Of_Number.pdb

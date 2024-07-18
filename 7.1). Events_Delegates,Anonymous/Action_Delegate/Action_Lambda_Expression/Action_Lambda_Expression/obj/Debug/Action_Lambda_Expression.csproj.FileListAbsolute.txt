@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\bin\Debug\Action_Lambda_Expression.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\bin\Debug\Action_Lambda_Expression.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\bin\Debug\Action_Lambda_Expression.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\obj\Debug\Action_Lambda_Expression.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\obj\Debug\Action_Lambda_Expression.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\obj\Debug\Action_Lambda_Expression.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Action_Lambda_Expression\Action_Lambda_Expression\obj\Debug\Action_Lambda_Expression.pdb

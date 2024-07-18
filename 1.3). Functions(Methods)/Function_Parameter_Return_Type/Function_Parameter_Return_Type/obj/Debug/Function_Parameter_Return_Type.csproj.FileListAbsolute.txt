@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\bin\Debug\Function_Parameter_Return_Type.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\bin\Debug\Function_Parameter_Return_Type.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\bin\Debug\Function_Parameter_Return_Type.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\obj\Debug\Function_Parameter_Return_Type.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\obj\Debug\Function_Parameter_Return_Type.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\obj\Debug\Function_Parameter_Return_Type.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Function_Parameter_Return_Type\Function_Parameter_Return_Type\obj\Debug\Function_Parameter_Return_Type.pdb

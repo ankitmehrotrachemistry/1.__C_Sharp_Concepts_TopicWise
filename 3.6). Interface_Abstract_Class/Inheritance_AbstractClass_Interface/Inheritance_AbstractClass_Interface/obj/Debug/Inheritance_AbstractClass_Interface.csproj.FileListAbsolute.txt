@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\bin\Debug\Inheritance_AbstractClass_Interface.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\bin\Debug\Inheritance_AbstractClass_Interface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\bin\Debug\Inheritance_AbstractClass_Interface.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\obj\Debug\Inheritance_AbstractClass_Interface.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\obj\Debug\Inheritance_AbstractClass_Interface.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\obj\Debug\Inheritance_AbstractClass_Interface.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Inheritance_AbstractClass_Interface\Inheritance_AbstractClass_Interface\obj\Debug\Inheritance_AbstractClass_Interface.pdb

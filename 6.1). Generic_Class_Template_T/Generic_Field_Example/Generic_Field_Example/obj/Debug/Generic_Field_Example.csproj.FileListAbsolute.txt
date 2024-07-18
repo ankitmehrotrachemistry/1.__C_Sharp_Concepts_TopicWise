@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\bin\Debug\Generic_Field_Example.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\bin\Debug\Generic_Field_Example.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\bin\Debug\Generic_Field_Example.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\obj\Debug\Generic_Field_Example.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\obj\Debug\Generic_Field_Example.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\obj\Debug\Generic_Field_Example.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Field_Example\Generic_Field_Example\obj\Debug\Generic_Field_Example.pdb

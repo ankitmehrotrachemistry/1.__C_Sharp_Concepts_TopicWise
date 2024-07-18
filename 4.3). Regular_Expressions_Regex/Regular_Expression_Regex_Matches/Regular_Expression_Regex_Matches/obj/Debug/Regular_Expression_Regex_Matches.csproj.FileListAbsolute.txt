@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\bin\Debug\Regular_Expression_Regex_Matches.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\bin\Debug\Regular_Expression_Regex_Matches.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\bin\Debug\Regular_Expression_Regex_Matches.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\obj\Debug\Regular_Expression_Regex_Matches.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\obj\Debug\Regular_Expression_Regex_Matches.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\obj\Debug\Regular_Expression_Regex_Matches.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Regular_Expression_Regex_Matches\Regular_Expression_Regex_Matches\obj\Debug\Regular_Expression_Regex_Matches.pdb

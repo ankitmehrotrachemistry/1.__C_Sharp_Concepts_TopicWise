@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\bin\Debug\Generic_Class_KeyValuePair.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\bin\Debug\Generic_Class_KeyValuePair.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\bin\Debug\Generic_Class_KeyValuePair.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\obj\Debug\Generic_Class_KeyValuePair.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\obj\Debug\Generic_Class_KeyValuePair.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\obj\Debug\Generic_Class_KeyValuePair.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Generic_Class_KeyValuePair\Generic_Class_KeyValuePair\obj\Debug\Generic_Class_KeyValuePair.pdb

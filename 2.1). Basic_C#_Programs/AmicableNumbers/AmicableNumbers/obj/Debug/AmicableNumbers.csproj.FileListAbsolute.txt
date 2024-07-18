@@ -1,7 +1,0 @@
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe.config
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\bin\Debug\AmicableNumbers.pdb
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.csprojAssemblyReference.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.csproj.CoreCompileInputs.cache
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.exe
-F:\2). C# XNA Unity3D for Game Programming\1). Basics of C# Programming\AmicableNumbers\AmicableNumbers\obj\Debug\AmicableNumbers.pdb

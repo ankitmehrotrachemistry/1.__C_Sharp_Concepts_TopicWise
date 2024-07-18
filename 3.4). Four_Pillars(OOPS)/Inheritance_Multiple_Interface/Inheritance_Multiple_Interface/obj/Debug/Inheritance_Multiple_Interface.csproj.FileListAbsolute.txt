@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\bin\Debug\Inheritance_Multiple_Interface.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\bin\Debug\Inheritance_Multiple_Interface.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\bin\Debug\Inheritance_Multiple_Interface.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\obj\Debug\Inheritance_Multiple_Interface.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\obj\Debug\Inheritance_Multiple_Interface.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\obj\Debug\Inheritance_Multiple_Interface.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Inheritance_Multiple_Interface\Inheritance_Multiple_Interface\obj\Debug\Inheritance_Multiple_Interface.pdb

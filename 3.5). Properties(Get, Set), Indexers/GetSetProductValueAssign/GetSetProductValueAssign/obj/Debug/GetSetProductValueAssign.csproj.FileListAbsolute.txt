@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\bin\Debug\GetSetProductValueAssign.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\bin\Debug\GetSetProductValueAssign.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\bin\Debug\GetSetProductValueAssign.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\obj\Debug\GetSetProductValueAssign.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\obj\Debug\GetSetProductValueAssign.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\obj\Debug\GetSetProductValueAssign.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\GetSetProductValueAssign\GetSetProductValueAssign\obj\Debug\GetSetProductValueAssign.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\bin\Debug\Dictionary_KeyVal_String_ObjectClass.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\bin\Debug\Dictionary_KeyVal_String_ObjectClass.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\bin\Debug\Dictionary_KeyVal_String_ObjectClass.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\obj\Debug\Dictionary_KeyVal_String_ObjectClass.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\obj\Debug\Dictionary_KeyVal_String_ObjectClass.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\obj\Debug\Dictionary_KeyVal_String_ObjectClass.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Dictionary_KeyVal_String_ObjectClass\Dictionary_KeyVal_String_ObjectClass\obj\Debug\Dictionary_KeyVal_String_ObjectClass.pdb

@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\bin\Debug\Interface_Basic.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\bin\Debug\Interface_Basic.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\bin\Debug\Interface_Basic.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\obj\Debug\Interface_Basic.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\obj\Debug\Interface_Basic.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\obj\Debug\Interface_Basic.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Interface_Basic\Interface_Basic\obj\Debug\Interface_Basic.pdb

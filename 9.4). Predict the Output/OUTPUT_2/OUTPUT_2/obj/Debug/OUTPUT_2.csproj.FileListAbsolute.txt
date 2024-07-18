@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\bin\Debug\OUTPUT_2.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\bin\Debug\OUTPUT_2.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\bin\Debug\OUTPUT_2.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\obj\Debug\OUTPUT_2.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\obj\Debug\OUTPUT_2.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\obj\Debug\OUTPUT_2.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\OUTPUT_2\OUTPUT_2\obj\Debug\OUTPUT_2.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\bin\Debug\Out_Parameter_Example.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\bin\Debug\Out_Parameter_Example.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\bin\Debug\Out_Parameter_Example.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\obj\Debug\Out_Parameter_Example.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\obj\Debug\Out_Parameter_Example.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\obj\Debug\Out_Parameter_Example.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Out_Parameter_Example\Out_Parameter_Example\obj\Debug\Out_Parameter_Example.pdb

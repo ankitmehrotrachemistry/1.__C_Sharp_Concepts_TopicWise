@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\bin\Debug\Dynamic_Polymorphism_Virtual_Override.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\bin\Debug\Dynamic_Polymorphism_Virtual_Override.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\bin\Debug\Dynamic_Polymorphism_Virtual_Override.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\obj\Debug\Dynamic_Polymorphism_Virtual_Override.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\obj\Debug\Dynamic_Polymorphism_Virtual_Override.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\obj\Debug\Dynamic_Polymorphism_Virtual_Override.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dynamic_Polymorphism_Virtual_Override\Dynamic_Polymorphism_Virtual_Override\obj\Debug\Dynamic_Polymorphism_Virtual_Override.pdb

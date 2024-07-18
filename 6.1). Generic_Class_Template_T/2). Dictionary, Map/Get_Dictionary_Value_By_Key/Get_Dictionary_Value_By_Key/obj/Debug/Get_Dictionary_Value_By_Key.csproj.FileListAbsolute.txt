@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\bin\Debug\Get_Dictionary_Value_By_Key.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\bin\Debug\Get_Dictionary_Value_By_Key.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\bin\Debug\Get_Dictionary_Value_By_Key.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\obj\Debug\Get_Dictionary_Value_By_Key.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\obj\Debug\Get_Dictionary_Value_By_Key.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\obj\Debug\Get_Dictionary_Value_By_Key.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Get_Dictionary_Value_By_Key\Get_Dictionary_Value_By_Key\obj\Debug\Get_Dictionary_Value_By_Key.pdb

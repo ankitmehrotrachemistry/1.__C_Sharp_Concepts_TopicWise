@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\bin\Debug\Explicit_Interface_Implementation.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\bin\Debug\Explicit_Interface_Implementation.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\bin\Debug\Explicit_Interface_Implementation.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\Debug\Explicit_Interface_Implementation.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\Debug\Explicit_Interface_Implementation.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\Debug\Explicit_Interface_Implementation.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Explicit_Interface_Implementation\Explicit_Interface_Implementation\obj\Debug\Explicit_Interface_Implementation.pdb

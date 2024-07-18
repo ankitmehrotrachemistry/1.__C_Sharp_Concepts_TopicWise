@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\bin\Debug\List_Of_Class_Demo.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\bin\Debug\List_Of_Class_Demo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\bin\Debug\List_Of_Class_Demo.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\obj\Debug\List_Of_Class_Demo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\obj\Debug\List_Of_Class_Demo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\obj\Debug\List_Of_Class_Demo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\List_Of_Class_Demo\List_Of_Class_Demo\obj\Debug\List_Of_Class_Demo.pdb

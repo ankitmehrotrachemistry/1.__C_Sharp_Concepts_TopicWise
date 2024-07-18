@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\bin\Debug\Multiple_Interface_ArrayList.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\bin\Debug\Multiple_Interface_ArrayList.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\bin\Debug\Multiple_Interface_ArrayList.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\obj\Debug\Multiple_Interface_ArrayList.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\obj\Debug\Multiple_Interface_ArrayList.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\obj\Debug\Multiple_Interface_ArrayList.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\4.6). Interface_Abstract_Class\Multiple_Interface_ArrayList\Multiple_Interface_ArrayList\obj\Debug\Multiple_Interface_ArrayList.pdb

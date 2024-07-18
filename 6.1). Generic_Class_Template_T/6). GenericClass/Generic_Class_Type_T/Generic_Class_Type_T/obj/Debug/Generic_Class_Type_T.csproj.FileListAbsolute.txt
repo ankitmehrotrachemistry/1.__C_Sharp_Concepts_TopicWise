@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\bin\Debug\Generic_Class_Type_T.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\bin\Debug\Generic_Class_Type_T.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\bin\Debug\Generic_Class_Type_T.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\obj\Debug\Generic_Class_Type_T.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\obj\Debug\Generic_Class_Type_T.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\obj\Debug\Generic_Class_Type_T.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Generic_Class_Type_T\Generic_Class_Type_T\obj\Debug\Generic_Class_Type_T.pdb

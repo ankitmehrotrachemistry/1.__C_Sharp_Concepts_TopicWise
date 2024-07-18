@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\bin\Debug\IfElse_Statement.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\bin\Debug\IfElse_Statement.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\bin\Debug\IfElse_Statement.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\obj\Debug\IfElse_Statement.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\obj\Debug\IfElse_Statement.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\obj\Debug\IfElse_Statement.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\1.2). Control_Statements\IfElse_Statement\IfElse_Statement\obj\Debug\IfElse_Statement.pdb

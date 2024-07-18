@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb

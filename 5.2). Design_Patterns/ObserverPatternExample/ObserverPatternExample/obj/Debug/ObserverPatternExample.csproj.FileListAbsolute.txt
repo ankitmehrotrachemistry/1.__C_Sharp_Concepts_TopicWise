@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.pdb

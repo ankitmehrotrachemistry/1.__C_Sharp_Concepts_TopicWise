@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\bin\Debug\Dictionary_Array_LINQ.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\bin\Debug\Dictionary_Array_LINQ.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\bin\Debug\Dictionary_Array_LINQ.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\obj\Debug\Dictionary_Array_LINQ.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\obj\Debug\Dictionary_Array_LINQ.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\obj\Debug\Dictionary_Array_LINQ.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Dictionary_Array_LINQ\Dictionary_Array_LINQ\obj\Debug\Dictionary_Array_LINQ.pdb

@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\bin\Debug\Decimal_ToInt32.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\bin\Debug\Decimal_ToInt32.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\bin\Debug\Decimal_ToInt32.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\obj\Debug\Decimal_ToInt32.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\obj\Debug\Decimal_ToInt32.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\obj\Debug\Decimal_ToInt32.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Decimal_ToInt32\Decimal_ToInt32\obj\Debug\Decimal_ToInt32.pdb

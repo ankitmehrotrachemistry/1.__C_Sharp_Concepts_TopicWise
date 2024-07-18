@@ -1,7 +1,0 @@
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\bin\Debug\IReadOnlyList.exe.config
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\bin\Debug\IReadOnlyList.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\bin\Debug\IReadOnlyList.pdb
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\obj\Debug\IReadOnlyList.csproj.AssemblyReference.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\obj\Debug\IReadOnlyList.csproj.CoreCompileInputs.cache
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\obj\Debug\IReadOnlyList.exe
-G:\2). C#,Unity3D\C_Sharp_Concepts_TopicWise\6). Generic_Class_Template_Class_T\1). List, ArrayList\IReadOnlyList\IReadOnlyList\obj\Debug\IReadOnlyList.pdb

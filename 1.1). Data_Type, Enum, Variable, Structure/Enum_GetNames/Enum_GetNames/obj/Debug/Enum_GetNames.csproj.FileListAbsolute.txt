@@ -1,7 +1,0 @@
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\bin\Debug\Enum_GetNames.exe.config
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\bin\Debug\Enum_GetNames.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\bin\Debug\Enum_GetNames.pdb
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\obj\Debug\Enum_GetNames.csproj.AssemblyReference.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\obj\Debug\Enum_GetNames.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\obj\Debug\Enum_GetNames.exe
-G:\2). C# Unity3D Game Dev, .NET, PostMan, Jenkins, Docker\1). Basics of C# Programming\Enum_GetNames\Enum_GetNames\obj\Debug\Enum_GetNames.pdb

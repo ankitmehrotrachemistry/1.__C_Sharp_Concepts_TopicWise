@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\bin\Debug\New_Override_Demo.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\bin\Debug\New_Override_Demo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\bin\Debug\New_Override_Demo.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\obj\Debug\New_Override_Demo.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\obj\Debug\New_Override_Demo.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\obj\Debug\New_Override_Demo.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\New_Override_Demo\New_Override_Demo\obj\Debug\New_Override_Demo.pdb

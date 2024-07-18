@@ -1,7 +1,0 @@
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\bin\Debug\Constructor_Parameter_NoParameter.exe.config
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\bin\Debug\Constructor_Parameter_NoParameter.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\bin\Debug\Constructor_Parameter_NoParameter.pdb
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\obj\Debug\Constructor_Parameter_NoParameter.csproj.AssemblyReference.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\obj\Debug\Constructor_Parameter_NoParameter.csproj.CoreCompileInputs.cache
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\obj\Debug\Constructor_Parameter_NoParameter.exe
-G:\2). C# Unity3D for Game Programming\1). Basics of C# Programming\Constructor_Parameter_NoParameter\Constructor_Parameter_NoParameter\obj\Debug\Constructor_Parameter_NoParameter.pdb
