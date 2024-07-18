@@ -22,6 +22,8 @@ namespace JsonToFile
             JsonToFile(config, "config.json");                                          
             Config configFromFile = ConfigReader("config.json");                        
             Console.WriteLine(configFromFile.token);
+
+            Console.ReadLine();
         }
         public static void JsonToFile(object Object, string path)
         {

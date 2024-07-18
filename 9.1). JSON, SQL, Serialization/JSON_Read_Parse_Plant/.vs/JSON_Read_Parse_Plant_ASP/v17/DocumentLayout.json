@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_Read_Parse_Plant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF21326-65EA-4676-A950-FF151D8B063C}|JSON_Read_Parse_Plant_ASP\\JSON_Read_Parse_Plant_ASP.csproj|c:\\users\\ankit mehrotra\\desktop\\c_sharp_concept\\c_sharp_concepts_topicwise\\9.1). json, sql, serialization\\json_read_parse_plant\\json_read_parse_plant_asp\\plantcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF21326-65EA-4676-A950-FF151D8B063C}|JSON_Read_Parse_Plant_ASP\\JSON_Read_Parse_Plant_ASP.csproj|solutionrelative:json_read_parse_plant_asp\\plantcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_Read_Parse_Plant\\JSON_Read_Parse_Plant_ASP\\PlantCollection.cs",
+              "RelativeDocumentMoniker": "JSON_Read_Parse_Plant_ASP\\PlantCollection.cs",
+              "ToolTip": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_Read_Parse_Plant\\JSON_Read_Parse_Plant_ASP\\PlantCollection.cs",
+              "RelativeToolTip": "JSON_Read_Parse_Plant_ASP\\PlantCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:57:32.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

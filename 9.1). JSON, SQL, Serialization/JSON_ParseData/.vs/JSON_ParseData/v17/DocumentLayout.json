@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_ParseData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{180734F8-3DB4-44DC-9DFE-537E02A1997D}|JSON_ParseData\\JSON_ParseData.csproj|c:\\users\\ankit mehrotra\\desktop\\c_sharp_concept\\c_sharp_concepts_topicwise\\9.1). json, sql, serialization\\json_parsedata\\json_parsedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180734F8-3DB4-44DC-9DFE-537E02A1997D}|JSON_ParseData\\JSON_ParseData.csproj|solutionrelative:json_parsedata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180734F8-3DB4-44DC-9DFE-537E02A1997D}|JSON_ParseData\\JSON_ParseData.csproj|c:\\users\\ankit mehrotra\\desktop\\c_sharp_concept\\c_sharp_concepts_topicwise\\9.1). json, sql, serialization\\json_parsedata\\json_parsedata\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180734F8-3DB4-44DC-9DFE-537E02A1997D}|JSON_ParseData\\JSON_ParseData.csproj|solutionrelative:json_parsedata\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_ParseData\\JSON_ParseData\\Student.cs",
+              "RelativeDocumentMoniker": "JSON_ParseData\\Student.cs",
+              "ToolTip": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_ParseData\\JSON_ParseData\\Student.cs",
+              "RelativeToolTip": "JSON_ParseData\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:56:10.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_ParseData\\JSON_ParseData\\Program.cs",
+              "RelativeDocumentMoniker": "JSON_ParseData\\Program.cs",
+              "ToolTip": "C:\\Users\\Ankit Mehrotra\\Desktop\\C_Sharp_Concept\\C_Sharp_Concepts_TopicWise\\9.1). JSON, SQL, Serialization\\JSON_ParseData\\JSON_ParseData\\Program.cs",
+              "RelativeToolTip": "JSON_ParseData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:56:08.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

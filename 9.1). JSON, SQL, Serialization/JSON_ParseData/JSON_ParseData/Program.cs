@@ -40,6 +40,8 @@ namespace JSON_ParseData
             {
                 Console.WriteLine(entry.Key + " " + entry.Value);
             }
+
+            Console.ReadLine();
         }
     }
 }
