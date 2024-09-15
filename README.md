@@ -3,13 +3,31 @@
 ▶️ [Advanced C# Topics](https://www.youtube.com/watch?v=VT9ueWBqquU&list=PLwhVruPHD9ryiH4kN0EHYeXQXIOHLBcJX&index=1)
 
 **Q-1. Abstract Classes.**  
+
 • Abstract methods do not have an implementation.  
 • Abstract methods are implicitly virtual.  
 • If a class has abstract methods it must be declared abstract itself.  
 • One cannot create objects of an abstract class.  
 
-**Q-2. Interface.**
-Interface = purely abstract class; only signatures, no implementation.  
+**Q-2. Interface.**  
+
+- Interface = purely abstract class; only signatures, no implementation.
+- Interface members must not be static.
+- Every interface member (method, property, indexer) must be implemented or inherited from a base class.
+- Implemented interface methods must not be declared as override.
+- Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
+
+**Q-3. Structure and Class**
+
+A class can inherit from a single base class, but implement multiple interfaces.
+A struct cannot inherit from any type, but can implement multiple interfaces.
+
+**Q-4. Uniform type system (boxing / unboxing)
+
+**Q-5. Delegates
+**Q-6. Indexers
+**Q-7. ref and out parameters
+**Q-8. Value objects on the stack
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
 
