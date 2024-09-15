@@ -2,11 +2,14 @@
 
 ▶️ [Advanced C# Topics](https://www.youtube.com/watch?v=VT9ueWBqquU&list=PLwhVruPHD9ryiH4kN0EHYeXQXIOHLBcJX&index=1)
 
-**Q-1. Abstract Classes.**
-• Abstract methods do not have an implementation.
-• Abstract methods are implicitly virtual.
-• If a class has abstract methods it must be declared abstract itself.
-• One cannot create objects of an abstract class.
+**Q-1. Abstract Classes.**  
+• Abstract methods do not have an implementation.  
+• Abstract methods are implicitly virtual.  
+• If a class has abstract methods it must be declared abstract itself.  
+• One cannot create objects of an abstract class.  
+
+**Q-2. Interface.**
+Interface = purely abstract class; only signatures, no implementation.  
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
 
