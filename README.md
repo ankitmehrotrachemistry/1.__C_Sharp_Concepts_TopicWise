@@ -22,12 +22,21 @@
 A class can inherit from a single base class, but implement multiple interfaces.
 A struct cannot inherit from any type, but can implement multiple interfaces.
 
-**Q-4. Uniform type system (boxing / unboxing)
+**Q-4. Uniform type system (boxing / unboxing)**
 
-**Q-5. Delegates
-**Q-6. Indexers
-**Q-7. ref and out parameters
-**Q-8. Value objects on the stack
+**Q-5. Delegates**
+
+**Q-6. Func and Action Delegates** 
+
+**Q-6. Indexers**
+
+**Q-7. ref and out parameters**
+
+**Q-8. Value objects on the stack**
+
+**Q-2. Reflections and Attributes**
+
+**Q-2. SOLID Principles**
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
 
