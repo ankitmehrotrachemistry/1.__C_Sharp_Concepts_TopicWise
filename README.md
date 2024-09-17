@@ -34,9 +34,11 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-7. Tuples** 
 
-**Q-6. Indexers**
-
 **Q-7. ref and out parameters**
+
+**Q-7. Anonymous Types** 
+
+**Q-6. Indexers**
 
 **Q-8. Value objects on the stack**
 
