@@ -17,6 +17,8 @@
 - Implemented interface methods must not be declared as override.
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
+**Q-2. Static Constructor.**  
+
 **Q-3. Structure and Class**
 
 A class can inherit from a single base class, but implement multiple interfaces.
@@ -27,6 +29,8 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 **Q-5. Delegates**
 
 **Q-6. Func and Action Delegates** 
+
+**Q-7. Tuples** 
 
 **Q-6. Indexers**
 
