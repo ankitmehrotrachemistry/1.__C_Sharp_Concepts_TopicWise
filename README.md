@@ -50,7 +50,7 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-2. SOLID Principles**
 
-**Q-1 CLR (Common Language Runtime)**  
+**Q-1. CLR (Common Language Runtime)**  
 The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
