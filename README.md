@@ -64,7 +64,9 @@ To optimize string manipulation for better performance in C#, consider using the
 - Utilize Span<T> for In-place Manipulation: Use Span<T> for low-level character manipulation without unnecessary allocations.
 - Consider String Pooling: Reuse commonly used strings with string interning or custom string pooling techniques to reduce memory usage.
 
-**Q-3. How do you handle deadlocks in multi-threaded applications in C#?**
+**Q-2. Difference between Task and Thread**
+
+**Q-4. How do you handle deadlocks in multi-threaded applications in C#?**
 
 Deadlocks in multi-threaded applications can be handled by following these practices:
 
