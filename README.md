@@ -19,6 +19,8 @@
 
 **Q-2. Static Constructor.**  
 
+**Q-2. StringBuilder Class.**  
+
 **Q-3. Structure and Class**
 
 A class can inherit from a single base class, but implement multiple interfaces.
