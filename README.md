@@ -20,11 +20,15 @@
 **Q-2. Static Constructor.**  
 
 **Q-2. StringBuilder Class.**  
+StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
+[StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)
 
 **Q-3. Structure and Class**
 
 A class can inherit from a single base class, but implement multiple interfaces.
 A struct cannot inherit from any type, but can implement multiple interfaces.
+
+**Q-4. Singleton vs Static Class**  
 
 **Q-4. Uniform type system (boxing / unboxing)**
 
