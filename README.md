@@ -32,11 +32,17 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-4. Uniform type system (boxing / unboxing)**
 
+**Q-5. Generic Classes**
+
+**Q-5. List vs Dictionary**
+
 **Q-5. Delegates**
 
 **Q-6. Func and Action Delegates** 
 
 **Q-7. Tuples** 
+
+**Q-7. as and is operators**
 
 **Q-7. ref and out parameters**
 
