@@ -1283,12 +1283,3 @@ db.EmployeeDetails.DeleteOnSubmit(emp);
 db.SubmitChanges();  
 ```
 
-
-
-
-
-
-
-
-
-
