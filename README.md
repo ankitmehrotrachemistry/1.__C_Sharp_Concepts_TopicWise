@@ -17,6 +17,8 @@
 - Implemented interface methods must not be declared as override.
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
+**Q-2. IEnumerable, IQueryable.**  
+
 **Q-2. Static Constructor.**  
 
 **Q-2. StringBuilder Class.**  
