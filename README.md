@@ -70,8 +70,6 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-6. Indexers**
 
-**Q-8. Value objects on the stack**
-
 **Q-2. Reflections and Attributes**
 
 **Q-2. SOLID Principles**
