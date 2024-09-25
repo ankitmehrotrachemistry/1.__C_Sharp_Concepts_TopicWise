@@ -30,6 +30,12 @@ Abstract classes have the following features:
 The main difference between IEnumerable and IQueryable lies in their handling of data. IEnumerable is suitable for in-memory collections and supports simple iteration, while IQueryable extends this capability for composing queries against remote data sources, offering deferred execution.
 IEnumerable is slower than IQueryable because IQueryable allows for query optimizations and lazy loading, whereas IEnumerable does not support query optimizations and lazy loading. IEnumerable needs the query execution to happen entirely on the client side.  
 
+▶️ [When to use IEnumerable vs IQueryable?](https://www.youtube.com/watch?v=J2u1DmnE9mU)  
+
+![image](https://github.com/user-attachments/assets/53597d28-e0fb-4408-90f8-6cb86553f8fc)
+
+![image](https://github.com/user-attachments/assets/ac07012b-da7d-44cf-a31a-25d3673898a5)
+
 **Q-1. Can we create object of abstract class and Interface? Why or Why not?** 
 
 [Why can't an object of abstract class be created?](https://stackoverflow.com/questions/2700256/why-cant-an-object-of-abstract-class-be-created)  
@@ -186,7 +192,14 @@ Object Obj = num;    // Boxing
 int i = (int)Obj;    // Unboxing
 ```
 
-**Q-5. Generics/Generic Classes**
+**Q-5. Generics/Generic Classes**  
+- Generic means the general form, not specific. In C#, generic means not specific to a particular data type.
+- A generic type is declared by specifying a type parameter in an angle brackets after a type name, e.g. TypeName<T> where T is a type parameter.
+
+Advantages of Generics
+- Generics increase the reusability of the code. You don't need to write code to handle different data types.
+- Generics are type-safe. You get compile-time errors if you try to use a different data type than the one specified in the definition.
+- Generic has a performance advantage because it removes the possibilities of boxing and unboxing.
 
 **Q-5. What are Properties in C#?**
 - Properties in C# are public members of a class where they provide the ability to access private members of a class.
@@ -204,13 +217,76 @@ int i = (int)Obj;    // Unboxing
 
 **Q-5. List vs Dictionary**
 
-**Q-5. Delegates**
+**Q-5. Delegates**  
+- A delegate is a reference type variable that holds the reference to a method. The reference can be changed at runtime.
+- A delegate can be passed as a method parameter.
+- = operator is used to assigning a single method, and += operator is used to assign multiple methods to a delegate.
 
-**Q-6. Func and Action Delegates** 
+**Q-6. Func and Action Delegates**  
+The Func delegate is another predefined delegate type that represents a method with zero or more input parameters that returns a value. Unlike the Action delegate, the return type of a Func delegate can be any type.  
+The Action delegate is a predefined delegate type that encapsulates a method with zero or more input parameters that doesn't return a value. In other words, an Action delegate represents a void-returning method.  
+
+[Action and Func Delegates in C# – Explained with Examples](https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/)
+
+The main difference between Func and Action lies in their return types. The Func delegate allows you to specify a return type, whereas the Action delegate does not return a value. Both delegates can have up to 16 parameters.  
+**Example:**  
+```csharp
+Func<int, int, int> sumFunc = (a, b) => a + b;
+int result = sumFunc(3, 4);  // result = 7
+```
+
+In below example, we define an Action delegate that takes a string parameter. We assign a lambda expression to the delegate, which writes a greeting message to the console.  
+```csharp
+Action<string> greetAction = name => Console.WriteLine($"Hello, name!");
+greetAction("John");  // Output: Hello, John!
+```
+
+[Introduction to Func and Action Delegates](https://medium.com/@interviewer.live/func-and-action-in-c-a-complete-guide-dfe8cf31581c)
 
 **Q-7. Tuples** 
+A tuple is a data structure that contains a sequence of elements of different data types. It can be used where you want to have a data structure to hold an object with properties, but you don't want to create a separate type for it.
 
-**Q-7. as and is operators**
+[C# - Tuple](https://www.tutorialsteacher.com/csharp/csharp-tuple)  
+
+**Syntax**  
+```csharp
+Tuple<T1, T2, T3, T4, T5, T6, T7, TRest>
+```
+
+The following example creates a tuple with three elements:
+
+```csharp
+Tuple<int, string, string> person = new Tuple <int, string, string>(1, "Steve", "Jobs");
+```
+
+**Usage of Tuple**  
+Tuples can be used in the following scenarios:  
+- When you want to return multiple values from a method without using ref or out parameters.
+- When you want to pass multiple values to a method through a single parameter.
+- When you want to hold a database record or some values temporarily without creating a separate class.
+
+**Tuple Limitations:**  
+- The Tuple is a reference type and not a value type. It allocates on heap and could result in CPU intensive operations.
+- The Tuple is limited to include eight elements. You need to use nested tuples if you need to store more elements. However, this may result in ambiguity.
+
+**Q-7. is and as operators**  
+
+**is operator:**    
+The 'is' operator in the C# programming language is used to check for compatibility of the runtime type of an object with a given type. If it is compatible, the expression evaluates to true, false otherwise.  
+Here are the characteristics of the is operator in C#:  
+- The is operator is used to check if the run-time type of an expression result is compatible with a given type.
+- When an is operator is used, the expression either evaluates to true if the types are the same, or false if the types differ.
+- The is operator is used only for boxing, unboxing, and reference conversions.
+
+**as operator:**  
+The as operator in C# allows you to explicitly convert the result of an expression to a given reference type or a nullable value type. If the conversion isn’t possible, as returns null.  
+Here are the characteristics of the as operator in C#:  
+- The as operator is used when you need to convert compatible reference types of nullable types.
+- When the as operator is used, the expression on the right-hand side of the assignment operator doesn’t evaluate to a boolean value.
+- When the as operator is used, the expression returns the object if the objects are compatible and returns null if no conversion if possible.
+- You can use the as operator only for boxing, reference, and nullable conversions.
+
+ [How to use the is and as operators in C#](https://www.infoworld.com/article/2338756/how-to-use-the-is-and-as-operators-in-c-sharp.html) 
 
 **Q-7. ref and out parameters**
 The out and ref keywords are useful when we want to return a value in the same variables that are passed as an argument. 
