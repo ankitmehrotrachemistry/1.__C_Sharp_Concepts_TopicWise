@@ -64,7 +64,8 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-7. ref and out parameters**
 
-**Q-7. constant and readonly**
+**Q-7. constant and readonly**  
+
 **Const**
 A const keyword in C# is used to declare a constant field throughout the program. That means once a variable has been declared const, its value cannot be changed throughout the program. 
 In C#, a constant is a number, string, null reference, or boolean values. 
