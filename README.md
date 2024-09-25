@@ -152,6 +152,13 @@ Some important point regarding static constructor from C# Language Specification
 - A Singleton class can be lazy loaded when needed, while static classes are always loaded. Static classes are loaded automatically by the .NET Framework common language runtime (CLR) when the program or namespace containing the class is loaded.
 
 **Q-4. Why there is no need to create object of Static Class?**  
+- Static classes do not contain any instance member properties or functions. So to make an instance would be pointless.  
+- When we make class as static, Compiler gives guaranty that instance of this class (Static class) can not be created. therefore the methods are not associated with particular object of class in code.  
+- Static class can not contains instance constructor But it can contain static constructor which does not takes the access modifiers. Static constructors is called automatically to initialize the class before the first instance is created.  
+- Static class are sealed classes and therefore can not be inherited.  
+- You can access the static members using the type name instead of reference.
+
+[How to create object of static class ?](https://www.codeproject.com/Questions/452249/How-to-create-object-of-static-class)  
 
 **Q-4. What are partial classes in C#?**  
 Partial classes implement the functionality of a single class into multiple files. These multiple files are combined into one during compile time. The partial class can be created using the partial keyword. 
