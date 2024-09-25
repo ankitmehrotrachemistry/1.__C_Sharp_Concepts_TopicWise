@@ -88,6 +88,24 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-4. Singleton vs Static Class**  
 
+[Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)
+**Similarities between Singleton and Static :**
+- Both Static and Singleton classes can have only one instance available in the memory.
+- Both classes can be used for holding the global state of an application.
+
+**Differences between Singleton and Static :**
+- A Singleton class supports interface implementation, while static classes cannot implement interfaces.
+- A Singleton class supports inheritance, while a Static class is a sealed class, and therefore cannot be inherited.
+- A Singleton class can inherit from other classes, while a Static class cannot (not even from other static classes).
+- A Singleton class can be instantiated using the new keyword, while static can not be instantiated (static class can be used directly).
+- Both Singleton and static are stored on the Heap memory, but static classes are stored in a special area of the Heap Memory called the High-Frequency Heap (Objects in High Frequency Heap are not garbage collected by GC, and hence static members are available throughout the application lifetime).
+- A Singleton class can Dispose, while a static class can not.
+- A Singleton class can have a constructor, while a static class can only have a private static parameterless constructor and cannot have instance constructors.
+- A Static class has better performance since static methods are bonded on compile time.
+- A Singleton class can be lazy loaded when needed, while static classes are always loaded. Static classes are loaded automatically by the .NET Framework common language runtime (CLR) when the program or namespace containing the class is loaded.
+
+
+
 **Q-4. Why there is no need to create object of Static Class?**  
 
 **Q-4. What are partial classes in C#?**  
