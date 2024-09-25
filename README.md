@@ -32,8 +32,39 @@
 | An abstract class has constructors. | An interface has no constructors.  |
 
 **Q-2. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
+[StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)  
+
 StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
-[StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)
+
+| String | StringBuilder | 
+|----------|----------|
+| String objects are immutable. | StringBuilder creates a mutable string of characters. StringBuilder will make the changes to the existing object rather than creating a new object. |
+| Since the String class is immutable, it is costlier to create a new object every time we need to make a change. | StringBuilder class comes into picture which can be evoked using the System.Text namespace. |
+
+In case, a string object will not change throughout the entire program, then use String class or else StringBuilder. 
+
+For ex:
+
+```csharp
+string s = string.Empty; 
+for (i = 0; i < 1000; i++) 
+  { 
+    s += i.ToString() + " "; 
+  }
+```
+Here, you’ll need to create 2001 objects out of which 2000 will be of no use.
+
+The same can be applied using StringBuilder:
+
+```csharp
+StringBuilder sb = new StringBuilder(); 
+for (i = 0; i < 1000; i++) 
+ { 
+   sb.Append(i); sb.Append(' '); 
+ }
+```
+
+By using StringBuilder here, you also de-stress the memory allocator.  
 
 **Q-2. Difference between an Array and ArrayList** 
 
