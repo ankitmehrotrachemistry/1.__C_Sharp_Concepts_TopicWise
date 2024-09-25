@@ -30,6 +30,15 @@ StringBuilder is a dynamic object. It doesn’t create a new object in the memor
 [StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)
 
 **Q-2. Difference between an Array and ArrayList** 
+
+| Array | ArrayList | 
+|----------|----------|
+| An array is a collection of similar variables clubbed together under one common name. | ArrayList is a collection of objects that can be indexed individually. |
+| An Array cannot access a number of features like dynamic memory allocation, adding, searching | ArrayList you can access a number of features like dynamic memory allocation, adding, searching, and sorting items in the ArrayList.  |
+| When declaring an array the size of the items is fixed therefore, the memory allocation is fixed. | With ArrayList, it can be increased or decreased dynamically. |
+| Array belongs to system.array namespace. | ArrayList belongs to the system.collection namespace. |
+| All items in an array are of the same datatype. | All the items in an ArrayList can be of the same or different data types. |
+| Arrays cannot accept null. | ArrayList can accept null values. |
  
 **Q-3. Structure and Class**
 
@@ -50,7 +59,12 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-5. What are Properties in C#?**
 
-**Q-5. Extension Methods**
+**Q-5. Extension Methods**  
+- Extension methods help to add new methods to the existing ones.
+- The methods that are added are static.
+- At times, when you want to add methods to an existing class but don’t perceive the right to modify that class or don’t hold the rights, you can create a new static class containing the new methods.
+- Once the extended methods are declared, bind this class with the existing one and see the methods will be added to the existing one.
+- It is introduced in C# 3.0.
 
 **Q-5. List vs Dictionary**
 
