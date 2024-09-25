@@ -9,6 +9,13 @@
 • If a class has abstract methods it must be declared abstract itself.  
 • One cannot create objects of an abstract class.  
 
+Abstract classes have the following features:
+
+- An abstract class cannot be instantiated.
+- An abstract class may contain abstract methods and accessors.
+- It is not possible to modify an abstract class with the sealed modifier, which means that the class cannot be inherited.
+- A non-abstract class derived from an abstract class must include actual implementations of all inherited abstract methods and accessors.
+
 **Q-2. Interface.**  
 
 - Interface = purely abstract class; only signatures, no implementation.
@@ -22,6 +29,23 @@ The main difference between IEnumerable and IQueryable lies in their handling of
 IEnumerable is slower than IQueryable because IQueryable allows for query optimizations and lazy loading, whereas IEnumerable does not support query optimizations and lazy loading. IEnumerable needs the query execution to happen entirely on the client side.  
 
 **Q-1. Can we create object of abstract class and Interface? Why or Why not?** 
+
+[Why can't an object of abstract class be created?](https://stackoverflow.com/questions/2700256/why-cant-an-object-of-abstract-class-be-created)  
+
+**Reason 1 :**  
+If we have a class containing pure virtual function then the class is abstract. If we will create an object of the abstract class and calls the method having no body(as the method is pure virtual) it will give an error. That is why we cant create object of abstract class.  
+
+**Reason 2 :**  
+We cannot create object for abstract class bcoz ,mostly abstract class contain "abstract methods" ,so abstract methods are incomplete methods.so we cannot estimate the memory of those methods how much they are going to occupy .This is one of the reason why we cannot create object for abstract class.  
+
+**Reason 3 :**  
+Actually when we create an object of a normal class we use Constructor to allocate the memory for that object like   
+
+```csharp
+myclass obj=new myclass();
+```
+
+Here using constructor clr identifies how much memory the object needed depending upon the instance variabless and methods. But in case of abstract classes we cant predict the amount of memory required as we dont implement the abstract methods so its not possible to create object.  
 
 **Q-2. Why C# don't support multiple inheritance?** 
 
@@ -86,10 +110,22 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-2. Static Constructor.**  
 
+[Static Constructor In C# And Its Usages](https://www.c-sharpcorner.com/article/static-constructor-in-C-Sharp-and-their-usages/)  
+Some important point regarding static constructor from C# Language Specification and C# Programmer's Reference :  
+- The static constructor for a class executes before any instance of the class is created.
+- The static constructor for a class executes before any of the static members for the class are referenced.
+- The static constructor for a class executes after the static field initializers (if any) for the class.
+- The static constructor for a class executes at most one time during a single program instantiation
+- A static constructor does not take access modifiers or have parameters.
+- A static constructor is called automatically to initialize the class before the first instance is created or any static members are referenced.
+- A static constructor cannot be called directly.
+- The user has no control on when the static constructor is executed in the program.
+- A typical use of static constructors is when the class is using a log file and the constructor is used to write entries to this file.
+
 **Q-4. Singleton vs Static Class**  
 
-[Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)
-**Similarities between Singleton and Static :**
+[Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)  
+**Similarities between Singleton and Static :**  
 - Both Static and Singleton classes can have only one instance available in the memory.
 - Both classes can be used for holding the global state of an application.
 
