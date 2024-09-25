@@ -4,10 +4,10 @@
 
 **Q-1. Abstract Classes.**  
 
-• Abstract methods do not have an implementation.  
-• Abstract methods are implicitly virtual.  
-• If a class has abstract methods it must be declared abstract itself.  
-• One cannot create objects of an abstract class.  
+- Abstract methods do not have an implementation.  
+- Abstract methods are implicitly virtual.  
+- If a class has abstract methods it must be declared abstract itself.  
+- One cannot create objects of an abstract class.  
 
 Abstract classes have the following features:
 
