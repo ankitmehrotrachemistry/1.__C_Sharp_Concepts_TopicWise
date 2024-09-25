@@ -59,7 +59,7 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-5. What are Properties in C#?**
 
-**Q-5. Extension Methods**  
+**Q-5. What are Extension Methods?**  
 - Extension methods help to add new methods to the existing ones.
 - The methods that are added are static.
 - At times, when you want to add methods to an existing class but don’t perceive the right to modify that class or don’t hold the rights, you can create a new static class containing the new methods.
@@ -77,6 +77,41 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 **Q-7. as and is operators**
 
 **Q-7. ref and out parameters**
+The out and ref keywords are useful when we want to return a value in the same variables that are passed as an argument. 
+
+**ref keyword**  
+C# ref keywords pass arguments by reference and not value.  
+
+```csharp
+void Method(ref int refArgument)
+{
+   refArgument = refArgument + 10;
+}
+int number = 1;
+Method(ref number);
+Console.WriteLine(number);
+// Output: 11
+```
+
+**out keyword**  
+- C# out keywords pass arguments within methods and functions.
+- ‘out’ keyword is used to pass arguments in a method as a reference to return multiple values.
+- Although it is the same as the ref keyword, the out keyword needs to be initialised before it is passed.  
+
+```csharp
+public static string GetNextFeature(ref int id)  
+{  
+   string returnText = "Next-" + id.ToString();  
+   id += 1;  
+   return returnText;  
+}  
+public static string GetNextFeature(out int id)  
+{  
+   id = 1;  
+   string returnText = "Next-" + id.ToString();  
+   return returnText;  
+}
+```
 
 **Q-7. constant and readonly**  
 
@@ -113,8 +148,6 @@ The value of xvar1 is 50, and yvar2 is 60
 ```
 
 **Q-7. Anonymous Types** 
-
-**Q-7. What are extension methods?**
 
 **Q-6. Indexers**
 
