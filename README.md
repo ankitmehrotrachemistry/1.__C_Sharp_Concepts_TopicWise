@@ -58,6 +58,14 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 **Q-4. Why there is no need to create object of Static Class?**  
 
 **Q-4. What are partial classes in C#?**  
+Partial classes implement the functionality of a single class into multiple files. These multiple files are combined into one during compile time. The partial class can be created using the partial keyword. 
+```csharp
+public partial Clas_name  
+{
+       // code
+}
+```
+You can easily split the functionalities of methods, interfaces, or structures into multiple files. You can even add nested partial classes. 
 
 **Q-4. Uniform type system (boxing / unboxing)**
 
@@ -169,7 +177,9 @@ The value of xvar1 is 50, and yvar2 is 60
 | Benefits: Provides various services like a garbage collector, exception handling, etc. | Such an example is C++. |
 
 **Q-1. What is Common Language Runtime (CLR)?**  
-The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
+CLR handles program execution for various languages including C#. The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
+
+![image](https://github.com/user-attachments/assets/a19e6a6a-a38e-4aa5-9802-b5145eaa9fb2)
 
 **Q-1. Difference between late binding and early binding**  
 
