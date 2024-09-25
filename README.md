@@ -65,6 +65,37 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 **Q-7. ref and out parameters**
 
 **Q-7. constant and readonly**
+**Const**
+A const keyword in C# is used to declare a constant field throughout the program. That means once a variable has been declared const, its value cannot be changed throughout the program. 
+In C#, a constant is a number, string, null reference, or boolean values. 
+
+**Readonly**
+With readonly keyword, you can assign the variable only when it is declared or in a constructor of the same class in which it is declared. 
+
+``csharp``
+public readonly int xvar1;
+   public readonly int yvar2;
+ 
+   // Values of the readonly variables are assigned Using constructor
+   public IB(int b, int c)
+   {
+ 
+       xvar1 = b;
+       yvar2 = c;
+       Console.WriteLine("The value of xvar1 {0}, "+
+                       "and yvar2 {1}", xvar1, yvar2);
+   }
+ 
+   // Main method
+   static public void Main()
+   {
+     IB obj1 = new IB(50, 60);
+   }
+}
+
+Output:
+The value of xvar1 is 50, and yvar2 is 60
+````
 
 **Q-7. Anonymous Types** 
 
