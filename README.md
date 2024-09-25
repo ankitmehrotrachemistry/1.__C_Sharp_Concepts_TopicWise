@@ -9,7 +9,7 @@
 • If a class has abstract methods it must be declared abstract itself.  
 • One cannot create objects of an abstract class.  
 
-**Q-1. Can we create object of abstract class?** 
+**Q-1. Can we create object of abstract class? Why or Why not** 
 
 **Q-2. Interface.**  
 
@@ -19,14 +19,20 @@
 - Implemented interface methods must not be declared as override.
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
+**Q-2. Why C# don't support multiple inheritance?** 
+
+**Q-2. Difference between an abstract class and an interface** 
+
 **Q-2. IEnumerable, IQueryable.**  
 
 **Q-2. Static Constructor.**  
 
-**Q-2. StringBuilder Class.**  
+**Q-2. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
 StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
 [StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)
 
+**Q-2. Difference between an Array and ArrayList** 
+ 
 **Q-3. Structure and Class**
 
 A class can inherit from a single base class, but implement multiple interfaces.
@@ -34,9 +40,13 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-4. Singleton vs Static Class**  
 
+**Q-4. What are partial classes in C#?**  
+
 **Q-4. Uniform type system (boxing / unboxing)**
 
-**Q-5. Generic Classes**
+**Q-5. Generics/Generic Classes**
+
+**Q-5. What are Properties in C#?**
 
 **Q-5. Extension Methods**
 
@@ -52,7 +62,11 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-7. ref and out parameters**
 
+**Q-7. constant and readonly**
+
 **Q-7. Anonymous Types** 
+
+**Q-7. What are extension methods?**
 
 **Q-6. Indexers**
 
@@ -64,10 +78,14 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-2. Managed and Unmanaged code**
 
-**Q-1. CLR (Common Language Runtime)**  
+**Q-1. What is Common Language Runtime (CLR)?**  
 The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
 
+**Q-1. Difference between late binding and early binding**  
+
 **Q-2. C# Profiling**
+
+**Q-2. What is garbage collection in C#?**
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
 
