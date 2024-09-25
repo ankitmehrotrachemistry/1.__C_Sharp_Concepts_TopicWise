@@ -25,6 +25,8 @@ Abstract classes have the following features:
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
 **Q-2. Difference between IEnumerable, IQueryable.**  
+
+[The difference between IEnumerable and IQueryable: An Overview](https://www.scholarhat.com/tutorial/linq/ienumerable-vs-iqueryable)  
 The main difference between IEnumerable and IQueryable lies in their handling of data. IEnumerable is suitable for in-memory collections and supports simple iteration, while IQueryable extends this capability for composing queries against remote data sources, offering deferred execution.
 IEnumerable is slower than IQueryable because IQueryable allows for query optimizations and lazy loading, whereas IEnumerable does not support query optimizations and lazy loading. IEnumerable needs the query execution to happen entirely on the client side.  
 
@@ -47,7 +49,16 @@ myclass obj=new myclass();
 
 Here using constructor clr identifies how much memory the object needed depending upon the instance variabless and methods. But in case of abstract classes we cant predict the amount of memory required as we dont implement the abstract methods so its not possible to create object.  
 
-**Q-2. Why C# don't support multiple inheritance?** 
+**Q-2. Why C# don't support multiple inheritance?**   
+
+[Why C# does not support multiple inheritances](https://medium.com/@kamaleshs48/why-c-does-not-support-multiple-inheritances-83904ba4874f)  
+
+C# does not support multiple inheritance because it can lead to ambiguity and complexity.  
+
+**Ambiguity:-** Ambiguity can occur when a child class inherits from two parent classes that have the same method or property with the same name. In this case, the compiler would not know which method or property to use. (Diamond Problem)
+**Complexity:-** Complexity can occur when a child class inherits from multiple parent classes with a large number of methods and properties. This can make it difficult to track the code and understand how the child's class works.
+
+![image](https://github.com/user-attachments/assets/c4f25fa7-0d34-4e34-9aa4-8ce748c56abd)
 
 **Q-2. Difference between an abstract class and an interface**  
 
@@ -139,8 +150,6 @@ Some important point regarding static constructor from C# Language Specification
 - A Singleton class can have a constructor, while a static class can only have a private static parameterless constructor and cannot have instance constructors.
 - A Static class has better performance since static methods are bonded on compile time.
 - A Singleton class can be lazy loaded when needed, while static classes are always loaded. Static classes are loaded automatically by the .NET Framework common language runtime (CLR) when the program or namespace containing the class is loaded.
-
-
 
 **Q-4. Why there is no need to create object of Static Class?**  
 
