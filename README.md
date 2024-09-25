@@ -18,6 +18,8 @@
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
 **Q-2. Difference between IEnumerable, IQueryable.**  
+The main difference between IEnumerable and IQueryable lies in their handling of data. IEnumerable is suitable for in-memory collections and supports simple iteration, while IQueryable extends this capability for composing queries against remote data sources, offering deferred execution.
+IEnumerable is slower than IQueryable because IQueryable allows for query optimizations and lazy loading, whereas IEnumerable does not support query optimizations and lazy loading. IEnumerable needs the query execution to happen entirely on the client side.  
 
 **Q-1. Can we create object of abstract class and Interface? Why or Why not?** 
 
