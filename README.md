@@ -142,6 +142,7 @@ Some important point regarding static constructor from C# Language Specification
 **Q-11. Singleton vs Static Class**  
 
 [Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)  
+
 **Similarities between Singleton and Static :**  
 - Both Static and Singleton classes can have only one instance available in the memory.
 - Both classes can be used for holding the global state of an application.
