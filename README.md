@@ -9,8 +9,6 @@
 • If a class has abstract methods it must be declared abstract itself.  
 • One cannot create objects of an abstract class.  
 
-**Q-1. Can we create object of abstract class? Why or Why not** 
-
 **Q-2. Interface.**  
 
 - Interface = purely abstract class; only signatures, no implementation.
@@ -19,13 +17,13 @@
 - Implemented interface methods must not be declared as override.
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
+**Q-2. Difference between IEnumerable, IQueryable.**  
+
+**Q-1. Can we create object of abstract class and Interface? Why or Why not?** 
+
 **Q-2. Why C# don't support multiple inheritance?** 
 
 **Q-2. Difference between an abstract class and an interface** 
-
-**Q-2. IEnumerable, IQueryable.**  
-
-**Q-2. Static Constructor.**  
 
 **Q-2. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
 StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
@@ -38,7 +36,11 @@ StringBuilder is a dynamic object. It doesn’t create a new object in the memor
 A class can inherit from a single base class, but implement multiple interfaces.
 A struct cannot inherit from any type, but can implement multiple interfaces.
 
+**Q-2. Static Constructor.**  
+
 **Q-4. Singleton vs Static Class**  
+
+**Q-4. Why there is no need to create object of Static Class?**  
 
 **Q-4. What are partial classes in C#?**  
 
