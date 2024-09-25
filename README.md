@@ -9,6 +9,8 @@
 • If a class has abstract methods it must be declared abstract itself.  
 • One cannot create objects of an abstract class.  
 
+**Q-1. Can we create object of abstract class?** 
+
 **Q-2. Interface.**  
 
 - Interface = purely abstract class; only signatures, no implementation.
@@ -36,6 +38,8 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 
 **Q-5. Generic Classes**
 
+**Q-5. Extension Methods**
+
 **Q-5. List vs Dictionary**
 
 **Q-5. Delegates**
@@ -57,6 +61,8 @@ A struct cannot inherit from any type, but can implement multiple interfaces.
 **Q-2. Reflections and Attributes**
 
 **Q-2. SOLID Principles**
+
+**Q-2. Managed and Unmanaged code**
 
 **Q-1. CLR (Common Language Runtime)**  
 The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
