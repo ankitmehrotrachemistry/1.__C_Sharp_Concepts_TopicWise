@@ -72,7 +72,7 @@ In C#, a constant is a number, string, null reference, or boolean values.
 **Readonly**
 With readonly keyword, you can assign the variable only when it is declared or in a constructor of the same class in which it is declared. 
 
-``csharp``
+```csharp
 public readonly int xvar1;
    public readonly int yvar2;
  
@@ -95,7 +95,7 @@ public readonly int xvar1;
 
 Output:
 The value of xvar1 is 50, and yvar2 is 60
-````
+```
 
 **Q-7. Anonymous Types** 
 
