@@ -24,7 +24,7 @@ Abstract classes have the following features:
 - Implemented interface methods must not be declared as override.
 - Implemented interface methods can be declared virtual or abstract (i.e. an interface can be implemented by an abstract class).
 
-**Q-2. Difference between IEnumerable, IQueryable.**  
+**Q-3. Difference between IEnumerable, IQueryable.**  
 
 [The difference between IEnumerable and IQueryable: An Overview](https://www.scholarhat.com/tutorial/linq/ienumerable-vs-iqueryable)  
 The main difference between IEnumerable and IQueryable lies in their handling of data. IEnumerable is suitable for in-memory collections and supports simple iteration, while IQueryable extends this capability for composing queries against remote data sources, offering deferred execution.
@@ -36,7 +36,7 @@ IEnumerable is slower than IQueryable because IQueryable allows for query optimi
 
 ![image](https://github.com/user-attachments/assets/ac07012b-da7d-44cf-a31a-25d3673898a5)
 
-**Q-1. Can we create object of abstract class and Interface? Why or Why not?** 
+**Q-4. Can we create object of abstract class and Interface? Why or Why not?** 
 
 [Why can't an object of abstract class be created?](https://stackoverflow.com/questions/2700256/why-cant-an-object-of-abstract-class-be-created)  
 
@@ -55,7 +55,7 @@ myclass obj=new myclass();
 
 Here using constructor clr identifies how much memory the object needed depending upon the instance variabless and methods. But in case of abstract classes we cant predict the amount of memory required as we dont implement the abstract methods so its not possible to create object.  
 
-**Q-2. Why C# don't support multiple inheritance?**   
+**Q-5. Why C# don't support multiple inheritance?**   
 
 [Why C# does not support multiple inheritances](https://medium.com/@kamaleshs48/why-c-does-not-support-multiple-inheritances-83904ba4874f)  
 
@@ -66,7 +66,7 @@ C# does not support multiple inheritance because it can lead to ambiguity and co
 
 ![image](https://github.com/user-attachments/assets/c4f25fa7-0d34-4e34-9aa4-8ce748c56abd)
 
-**Q-2. Difference between an abstract class and an interface**  
+**Q-6. Difference between an abstract class and an interface**  
 
 | Abstract Class | Interface | 
 |----------|----------|
@@ -74,7 +74,7 @@ C# does not support multiple inheritance because it can lead to ambiguity and co
 | Since abstract classes can have both abstract and non-abstract methods, we need to use the Abstract keyword to declare abstract methods. | But in the interface, there is no such need. |
 | An abstract class has constructors. | An interface has no constructors.  |
 
-**Q-2. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
+**Q-7. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
 [StringBuilder in C#](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)  
 
 StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
@@ -109,7 +109,7 @@ for (i = 0; i < 1000; i++)
 
 By using StringBuilder here, you also de-stress the memory allocator.  
 
-**Q-2. Difference between an Array and ArrayList** 
+**Q-8. Difference between an Array and ArrayList** 
 
 | Array | ArrayList | 
 |----------|----------|
@@ -120,12 +120,12 @@ By using StringBuilder here, you also de-stress the memory allocator.
 | All items in an array are of the same datatype. | All the items in an ArrayList can be of the same or different data types. |
 | Arrays cannot accept null. | ArrayList can accept null values. |
  
-**Q-3. Structure and Class**
+**Q-9. Structure and Class**
 
 A class can inherit from a single base class, but implement multiple interfaces.
 A struct cannot inherit from any type, but can implement multiple interfaces.
 
-**Q-2. Static Constructor.**  
+**Q-10. Static Constructor.**  
 
 [Static Constructor In C# And Its Usages](https://www.c-sharpcorner.com/article/static-constructor-in-C-Sharp-and-their-usages/)  
 Some important point regarding static constructor from C# Language Specification and C# Programmer's Reference :  
@@ -139,7 +139,7 @@ Some important point regarding static constructor from C# Language Specification
 - The user has no control on when the static constructor is executed in the program.
 - A typical use of static constructors is when the class is using a log file and the constructor is used to write entries to this file.
 
-**Q-4. Singleton vs Static Class**  
+**Q-11. Singleton vs Static Class**  
 
 [Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)  
 **Similarities between Singleton and Static :**  
@@ -157,7 +157,7 @@ Some important point regarding static constructor from C# Language Specification
 - A Static class has better performance since static methods are bonded on compile time.
 - A Singleton class can be lazy loaded when needed, while static classes are always loaded. Static classes are loaded automatically by the .NET Framework common language runtime (CLR) when the program or namespace containing the class is loaded.
 
-**Q-4. Why there is no need to create object of Static Class?**  
+**Q-12. Why there is no need to create object of Static Class?**  
 - Static classes do not contain any instance member properties or functions. So to make an instance would be pointless.  
 - When we make class as static, Compiler gives guaranty that instance of this class (Static class) can not be created. therefore the methods are not associated with particular object of class in code.  
 - Static class can not contains instance constructor But it can contain static constructor which does not takes the access modifiers. Static constructors is called automatically to initialize the class before the first instance is created.  
@@ -166,7 +166,7 @@ Some important point regarding static constructor from C# Language Specification
 
 [How to create object of static class ?](https://www.codeproject.com/Questions/452249/How-to-create-object-of-static-class)  
 
-**Q-4. What are partial classes in C#?**  
+**Q-13. What are partial classes in C#?**  
 Partial classes implement the functionality of a single class into multiple files. These multiple files are combined into one during compile time. The partial class can be created using the partial keyword. 
 ```csharp
 public partial Clas_name  
@@ -176,7 +176,7 @@ public partial Clas_name
 ```
 You can easily split the functionalities of methods, interfaces, or structures into multiple files. You can even add nested partial classes. 
 
-**Q-4. Uniform type system (boxing / unboxing)**
+**Q-14. Uniform type system (boxing / unboxing)**
 **Boxing:** Boxing converts value type (int, char, etc.) to reference type (object) which is an implicit conversion process using object value. 
 
 ```csharp
@@ -192,7 +192,7 @@ Object Obj = num;    // Boxing
 int i = (int)Obj;    // Unboxing
 ```
 
-**Q-5. Generics/Generic Classes**  
+**Q-15. Generics/Generic Classes**  
 - Generic means the general form, not specific. In C#, generic means not specific to a particular data type.
 - A generic type is declared by specifying a type parameter in an angle brackets after a type name, e.g. TypeName<T> where T is a type parameter.
 
@@ -201,28 +201,28 @@ Advantages of Generics
 - Generics are type-safe. You get compile-time errors if you try to use a different data type than the one specified in the definition.
 - Generic has a performance advantage because it removes the possibilities of boxing and unboxing.
 
-**Q-5. What are Properties in C#?**
+**Q-16. What are Properties in C#?**
 - Properties in C# are public members of a class where they provide the ability to access private members of a class.
 - The basic principle of encapsulation lets you hide some sensitive properties from the users by making the variables private.
 - The private members are not accessible otherwise in a class.
 - Therefore, by using properties in C# you can easily access the private members and set their values.
 - The values can be easily assigned using get and set methods, also known as accessors. While the get method extracts the value, the set method assigns the value to the variables.
 
-**Q-5. What are Extension Methods?**  
+**Q-17. What are Extension Methods?**  
 - Extension methods help to add new methods to the existing ones.
 - The methods that are added are static.
 - At times, when you want to add methods to an existing class but don’t perceive the right to modify that class or don’t hold the rights, you can create a new static class containing the new methods.
 - Once the extended methods are declared, bind this class with the existing one and see the methods will be added to the existing one.
 - It is introduced in C# 3.0.
 
-**Q-5. List vs Dictionary**
+**Q-18. List vs Dictionary**
 
-**Q-5. Delegates**  
+**Q-19. Delegates**  
 - A delegate is a reference type variable that holds the reference to a method. The reference can be changed at runtime.
 - A delegate can be passed as a method parameter.
 - = operator is used to assigning a single method, and += operator is used to assign multiple methods to a delegate.
 
-**Q-6. Func and Action Delegates**  
+**Q-20. Func and Action Delegates**  
 The Func delegate is another predefined delegate type that represents a method with zero or more input parameters that returns a value. Unlike the Action delegate, the return type of a Func delegate can be any type.  
 The Action delegate is a predefined delegate type that encapsulates a method with zero or more input parameters that doesn't return a value. In other words, an Action delegate represents a void-returning method.  
 
@@ -243,7 +243,7 @@ greetAction("John");  // Output: Hello, John!
 
 [Introduction to Func and Action Delegates](https://medium.com/@interviewer.live/func-and-action-in-c-a-complete-guide-dfe8cf31581c)
 
-**Q-7. Tuples** 
+**Q-21. Tuples** 
 A tuple is a data structure that contains a sequence of elements of different data types. It can be used where you want to have a data structure to hold an object with properties, but you don't want to create a separate type for it.
 
 [C# - Tuple](https://www.tutorialsteacher.com/csharp/csharp-tuple)  
@@ -269,7 +269,7 @@ Tuples can be used in the following scenarios:
 - The Tuple is a reference type and not a value type. It allocates on heap and could result in CPU intensive operations.
 - The Tuple is limited to include eight elements. You need to use nested tuples if you need to store more elements. However, this may result in ambiguity.
 
-**Q-7. is and as operators**  
+**Q-22. is and as operators**  
 
 **is operator:**    
 The 'is' operator in the C# programming language is used to check for compatibility of the runtime type of an object with a given type. If it is compatible, the expression evaluates to true, false otherwise.  
@@ -288,7 +288,7 @@ Here are the characteristics of the as operator in C#:
 
  [How to use the is and as operators in C#](https://www.infoworld.com/article/2338756/how-to-use-the-is-and-as-operators-in-c-sharp.html) 
 
-**Q-7. ref and out parameters**
+**Q-23. ref and out parameters**
 The out and ref keywords are useful when we want to return a value in the same variables that are passed as an argument. 
 
 **ref keyword**  
@@ -325,7 +325,7 @@ public static string GetNextFeature(out int id)
 }
 ```
 
-**Q-7. constant and readonly**  
+**Q-24. constant and readonly**  
 
 **Const**
 A const keyword in C# is used to declare a constant field throughout the program. That means once a variable has been declared const, its value cannot be changed throughout the program. 
@@ -359,9 +359,9 @@ Output:
 The value of xvar1 is 50, and yvar2 is 60
 ```
 
-**Q-7. Anonymous Types** 
+**Q-25. Anonymous Types** 
 
-**Q-6. Indexers**
+**Q-26. Indexers**
 Indexers are called smart arrays that allow access to a member variable. Indexers allow member variables using the features of an array. They are created using the Indexer keyword. Indexers are not static members.  
 
 For ex. Here the indexer is defined the same way.  
@@ -378,7 +378,7 @@ For ex. Here the indexer is defined the same way.
 }
 ```
 
-**Q-2. Reflections**
+**Q-27. Reflections**
 Reflection in C# extracts metadata from the datatypes during runtime. 
 
 To add reflection in the .NET framework, simply use System.Refelction namespace in your program to retrieve the type which can be anything from:
@@ -395,7 +395,7 @@ To add reflection in the .NET framework, simply use System.Refelction namespace 
 - EventInfo
 - PropertyInfo
 
-**Q-3. Attributes**  
+**Q-28. Attributes**  
 Attributes are a form of metadata that you can apply to various program entities such as types, methods, properties, and more.  
 To apply an attribute to an element, use square brackets.  
 
@@ -410,27 +410,27 @@ C# provides a variety of built-in attributes that offer powerful functionalities
 
 [Mastering C# Attributes: A Comprehensive Guide from Basics to Advanced](https://medium.com/@lexitrainerph/mastering-c-attributes-a-comprehensive-guide-from-basics-to-advanced-38322b54dd98)
 
-**Q-2. SOLID Principles**
+**Q-29. SOLID Principles**
 
 ![image](https://github.com/user-attachments/assets/4b28e602-24a5-493a-875c-8a9d9a40b3b7)
 
-**Q-2. Managed and Unmanaged code**
+**Q-30. Managed and Unmanaged code**
 | Managed Code | Unmanaged Code | 
 |----------|----------|
 | Managed code lets you run the code on a managed CLR runtime environment in the .NET framework. | Unmanaged code is when the code doesn’t run on CLR, it is an unmanaged code that works outside the .NET framework.  |
 | Managed code runs on the managed runtime environment than the operating system itself.  | They don’t provide services of the high-level languages and therefore, run without them.  |
 | Benefits: Provides various services like a garbage collector, exception handling, etc. | Such an example is C++. |
 
-**Q-1. What is Common Language Runtime (CLR)?**  
+**Q-31. What is Common Language Runtime (CLR)?**  
 CLR handles program execution for various languages including C#. The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
 
 ![image](https://github.com/user-attachments/assets/a19e6a6a-a38e-4aa5-9802-b5145eaa9fb2)
 
-**Q-1. Difference between late binding and early binding**  
+**Q-32. Difference between late binding and early binding**  
 
-**Q-2. C# Profiling**
+**Q-33. C# Profiling**
 
-**Q-2. What is garbage collection in C#?**
+**Q-34. What is garbage collection in C#?**
 Garbage collection is the process of freeing up memory that is captured by unwanted objects. When you create a class object, automatically some memory space is allocated to the object in the heap memory. Now, after you perform all the actions on the object, the memory space occupied by the object becomes waste. It is necessary to free up memory.  
 
 Garbage collection happens in three cases:
@@ -439,7 +439,7 @@ Garbage collection happens in three cases:
 - If the garbage collection method is called
 - If your system has low physical memory
 
-**Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
+**Q-35. What are some advanced garbage collection techniques in C# to improve performance?**
 
 Advanced garbage collection techniques in C# to improve performance include:
 - Generational Garbage Collection: Separates objects into generations based on their age, allowing the garbage collector to focus on younger generations more frequently.
@@ -447,7 +447,7 @@ Advanced garbage collection techniques in C# to improve performance include:
 - Concurrent and Background Collection: Allows garbage collection to run concurrently with application threads, minimizing pause times.
 - Tuning GC Settings: Adjusting parameters like generation sizes, thresholds, and modes (e.g., server mode) based on application requirements.
 
-**Q-2. What techniques can be used to optimize string manipulation for better performance in C#?**
+**Q-36. What techniques can be used to optimize string manipulation for better performance in C#?**
 
 To optimize string manipulation for better performance in C#, consider using the following techniques:
 
@@ -457,9 +457,9 @@ To optimize string manipulation for better performance in C#, consider using the
 - Utilize Span<T> for In-place Manipulation: Use Span<T> for low-level character manipulation without unnecessary allocations.
 - Consider String Pooling: Reuse commonly used strings with string interning or custom string pooling techniques to reduce memory usage.
 
-**Q-2. Difference between Task and Thread**
+**Q-37. Difference between Task and Thread**
 
-**Q-4. How do you handle deadlocks in multi-threaded applications in C#?**
+**Q-38. How do you handle deadlocks in multi-threaded applications in C#?**
 
 Deadlocks in multi-threaded applications can be handled by following these practices:
 
@@ -468,7 +468,7 @@ Deadlocks in multi-threaded applications can be handled by following these pract
 - Avoid Nested Locks: Minimize nested locking to reduce the risk of deadlocks.
 - Detect and Recover: Implement deadlock detection mechanisms or use tools like Monitor.TryEnter with timeout to detect and recover from potential deadlocks.
 
-**Q-4. Compare async/await with Task.Run for concurrent operations in C#.**
+**Q-39. Compare async/await with Task.Run for concurrent operations in C#.**
 
 - async/await: Used for asynchronous programming to execute non-blocking operations. async methods allow the use of await to pause execution without blocking the thread.
 - Task.Run: Used to execute synchronous operations asynchronously on the ThreadPool. Task.Run is typically used to offload CPU-bound work from the main thread.
@@ -478,7 +478,7 @@ Deadlocks in multi-threaded applications can be handled by following these pract
 - Use async/await for asynchronous I/O-bound operations (e.g., file I/O, network requests) that involve waiting without blocking the thread.
 - Use Task.Run for offloading synchronous CPU-bound operations to the background thread (e.g., complex calculations) to prevent blocking the UI thread.
 
-**Q-5. Describe the differences between deep and shallow copying of objects in C#?**
+**Q-40. Describe the differences between deep and shallow copying of objects in C#?**
 
 - **Shallow Copying:** Shallow copying involves creating a new object and copying all of the fields of the original object to the new object. For reference type fields, only the references are copied, not the actual objects they refer to. Therefore, both the original and copied objects will refer to the same referenced objects.
 
