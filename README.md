@@ -23,7 +23,13 @@
 
 **Q-2. Why C# don't support multiple inheritance?** 
 
-**Q-2. Difference between an abstract class and an interface** 
+**Q-2. Difference between an abstract class and an interface**  
+
+| Abstract Class | Interface | 
+|----------|----------|
+| Surprisingly, abstract classes can have both abstract and non-abstract methods. | All the methods of an interface are abstract methods. |
+| Since abstract classes can have both abstract and non-abstract methods, we need to use the Abstract keyword to declare abstract methods. | But in the interface, there is no such need. |
+| An abstract class has constructors. | An interface has no constructors.  |
 
 **Q-2. StringBuilder Class. What is the difference between String and StringBuilder in C#?**  
 StringBuilder is a dynamic object. It doesn’t create a new object in the memory but dynamically expands the needed memory to accommodate the modified or new string.
@@ -156,6 +162,11 @@ The value of xvar1 is 50, and yvar2 is 60
 **Q-2. SOLID Principles**
 
 **Q-2. Managed and Unmanaged code**
+| Managed Code | Unmanaged Code | 
+|----------|----------|
+| Managed code lets you run the code on a managed CLR runtime environment in the .NET framework. | Unmanaged code is when the code doesn’t run on CLR, it is an unmanaged code that works outside the .NET framework.  |
+| Managed code runs on the managed runtime environment than the operating system itself.  | They don’t provide services of the high-level languages and therefore, run without them.  |
+| Benefits: Provides various services like a garbage collector, exception handling, etc. | Such an example is C++. |
 
 **Q-1. What is Common Language Runtime (CLR)?**  
 The Common Language Runtime (CLR) is a core component of . NET Framework that manages the execution and the lifecycle of all . NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety.
@@ -165,6 +176,13 @@ The Common Language Runtime (CLR) is a core component of . NET Framework that ma
 **Q-2. C# Profiling**
 
 **Q-2. What is garbage collection in C#?**
+Garbage collection is the process of freeing up memory that is captured by unwanted objects. When you create a class object, automatically some memory space is allocated to the object in the heap memory. Now, after you perform all the actions on the object, the memory space occupied by the object becomes waste. It is necessary to free up memory.  
+
+Garbage collection happens in three cases:
+
+- If the occupied memory by the objects exceeds the pre-set threshold value.
+- If the garbage collection method is called
+- If your system has low physical memory
 
 **Q-1. What are some advanced garbage collection techniques in C# to improve performance?**
 
