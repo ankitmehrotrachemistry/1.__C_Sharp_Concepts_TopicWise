@@ -99,10 +99,29 @@ public partial Clas_name
 You can easily split the functionalities of methods, interfaces, or structures into multiple files. You can even add nested partial classes. 
 
 **Q-4. Uniform type system (boxing / unboxing)**
+**Boxing:** Boxing converts value type (int, char, etc.) to reference type (object) which is an implicit conversion process using object value. 
+
+```csharp
+int num = 23; // 23 will assigned to num
+Object Obj = num; // Boxing
+```
+
+**Unboxing:** Unboxing converts reference type (object) to value type (int, char, etc.) using an explicit conversion process.  
+
+```csharp
+int num = 23;         // value type is int and assigned value 23
+Object Obj = num;    // Boxing
+int i = (int)Obj;    // Unboxing
+```
 
 **Q-5. Generics/Generic Classes**
 
 **Q-5. What are Properties in C#?**
+- Properties in C# are public members of a class where they provide the ability to access private members of a class.
+- The basic principle of encapsulation lets you hide some sensitive properties from the users by making the variables private.
+- The private members are not accessible otherwise in a class.
+- Therefore, by using properties in C# you can easily access the private members and set their values.
+- The values can be easily assigned using get and set methods, also known as accessors. While the get method extracts the value, the set method assigns the value to the variables.
 
 **Q-5. What are Extension Methods?**  
 - Extension methods help to add new methods to the existing ones.
@@ -195,8 +214,40 @@ The value of xvar1 is 50, and yvar2 is 60
 **Q-7. Anonymous Types** 
 
 **Q-6. Indexers**
+Indexers are called smart arrays that allow access to a member variable. Indexers allow member variables using the features of an array. They are created using the Indexer keyword. Indexers are not static members.  
 
-**Q-2. Reflections and Attributes**
+For ex. Here the indexer is defined the same way.  
+
+```csharp
+<return type> this[<parameter type> index]
+{
+   get{
+       // return the value from the specified index of an internal collection
+   }
+   set{
+       // set values at the specified index in an internal collection
+   }
+}
+```
+
+**Q-2. Reflections**
+Reflection in C# extracts metadata from the datatypes during runtime. 
+
+To add reflection in the .NET framework, simply use System.Refelction namespace in your program to retrieve the type which can be anything from:
+
+- Assembly
+- Module
+- Enum
+- MethodInfo
+- ConstructorInfo
+- MemberInfo
+- ParameterInfo
+- Type
+- FieldInfo
+- EventInfo
+- PropertyInfo
+
+**Q-3. Attributes**
 
 **Q-2. SOLID Principles**
 
