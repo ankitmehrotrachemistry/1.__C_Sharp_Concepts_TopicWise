@@ -395,9 +395,24 @@ To add reflection in the .NET framework, simply use System.Refelction namespace 
 - EventInfo
 - PropertyInfo
 
-**Q-3. Attributes**
+**Q-3. Attributes**  
+Attributes are a form of metadata that you can apply to various program entities such as types, methods, properties, and more.  
+To apply an attribute to an element, use square brackets.  
+
+C# provides a variety of built-in attributes that offer powerful functionalities:  
+
+- [Obsolete]: Marks code as deprecated.
+- [Serializable]: Indicates that a class can be serialized.
+- [Conditional]: Controls conditional compilation based on specified symbols.
+- [DllImport]: Specifies a method to be imported from a dynamic link library (DLL).
+- [Serializable]: Marks a class as serializable.
+- [Serializable]: Marks a field as serializable.
+
+[Mastering C# Attributes: A Comprehensive Guide from Basics to Advanced](https://medium.com/@lexitrainerph/mastering-c-attributes-a-comprehensive-guide-from-basics-to-advanced-38322b54dd98)
 
 **Q-2. SOLID Principles**
+
+![image](https://github.com/user-attachments/assets/4b28e602-24a5-493a-875c-8a9d9a40b3b7)
 
 **Q-2. Managed and Unmanaged code**
 | Managed Code | Unmanaged Code | 
