@@ -61,8 +61,8 @@ Here using constructor clr identifies how much memory the object needed dependin
 
 C# does not support multiple inheritance because it can lead to ambiguity and complexity.  
 
-**Ambiguity:-** Ambiguity can occur when a child class inherits from two parent classes that have the same method or property with the same name. In this case, the compiler would not know which method or property to use. (Diamond Problem)
-**Complexity:-** Complexity can occur when a child class inherits from multiple parent classes with a large number of methods and properties. This can make it difficult to track the code and understand how the child's class works.
+**Ambiguity:-** Ambiguity can occur when a child class inherits from two parent classes that have the same method or property with the same name. In this case, the compiler would not know which method or property to use. (Diamond Problem)  
+**Complexity:-** Complexity can occur when a child class inherits from multiple parent classes with a large number of methods and properties. This can make it difficult to track the code and understand how the child's class works.  
 
 ![image](https://github.com/user-attachments/assets/c4f25fa7-0d34-4e34-9aa4-8ce748c56abd)
 
@@ -177,7 +177,7 @@ public partial Clas_name
 ```
 You can easily split the functionalities of methods, interfaces, or structures into multiple files. You can even add nested partial classes. 
 
-**Q-14. Uniform type system (boxing / unboxing)**
+**Q-14. Uniform type system (boxing / unboxing)**  
 **Boxing:** Boxing converts value type (int, char, etc.) to reference type (object) which is an implicit conversion process using object value. 
 
 ```csharp
@@ -244,7 +244,7 @@ greetAction("John");  // Output: Hello, John!
 
 [Introduction to Func and Action Delegates](https://medium.com/@interviewer.live/func-and-action-in-c-a-complete-guide-dfe8cf31581c)
 
-**Q-21. Tuples** 
+**Q-21. Tuples**  
 A tuple is a data structure that contains a sequence of elements of different data types. It can be used where you want to have a data structure to hold an object with properties, but you don't want to create a separate type for it.
 
 [C# - Tuple](https://www.tutorialsteacher.com/csharp/csharp-tuple)  
@@ -289,7 +289,7 @@ Here are the characteristics of the as operator in C#:
 
  [How to use the is and as operators in C#](https://www.infoworld.com/article/2338756/how-to-use-the-is-and-as-operators-in-c-sharp.html) 
 
-**Q-23. ref and out parameters**
+**Q-23. ref and out parameters**  
 The out and ref keywords are useful when we want to return a value in the same variables that are passed as an argument. 
 
 **ref keyword**  
@@ -360,9 +360,9 @@ Output:
 The value of xvar1 is 50, and yvar2 is 60
 ```
 
-**Q-25. Anonymous Types** 
+**Q-25. Anonymous Types**  
 
-**Q-26. Indexers**
+**Q-26. Indexers**  
 Indexers are called smart arrays that allow access to a member variable. Indexers allow member variables using the features of an array. They are created using the Indexer keyword. Indexers are not static members.  
 
 For ex. Here the indexer is defined the same way.  
@@ -379,7 +379,7 @@ For ex. Here the indexer is defined the same way.
 }
 ```
 
-**Q-27. Reflections**
+**Q-27. Reflections**  
 Reflection in C# extracts metadata from the datatypes during runtime. 
 
 To add reflection in the .NET framework, simply use System.Refelction namespace in your program to retrieve the type which can be anything from:
@@ -431,7 +431,7 @@ CLR handles program execution for various languages including C#. The Common Lan
 
 **Q-33. C# Profiling**
 
-**Q-34. What is garbage collection in C#?**
+**Q-34. What is garbage collection in C#?**  
 Garbage collection is the process of freeing up memory that is captured by unwanted objects. When you create a class object, automatically some memory space is allocated to the object in the heap memory. Now, after you perform all the actions on the object, the memory space occupied by the object becomes waste. It is necessary to free up memory.  
 
 Garbage collection happens in three cases:
