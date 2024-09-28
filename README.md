@@ -139,6 +139,9 @@ Some important point regarding static constructor from C# Language Specification
 - The user has no control on when the static constructor is executed in the program.
 - A typical use of static constructors is when the class is using a log file and the constructor is used to write entries to this file.
 
+**Q-10. Private Constructor. Private Constructor vs Sealed Class in C#**  
+
+
 **Q-11. Singleton vs Static Class**  
 
 [Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)  
@@ -414,6 +417,9 @@ C# provides a variety of built-in attributes that offer powerful functionalities
 **Q-29. SOLID Principles**
 
 ![image](https://github.com/user-attachments/assets/4b28e602-24a5-493a-875c-8a9d9a40b3b7)
+
+**Q-29. Memory Allocation in C#**
+
 
 **Q-30. Managed and Unmanaged code**
 | Managed Code | Unmanaged Code | 
