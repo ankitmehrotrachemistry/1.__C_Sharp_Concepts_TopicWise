@@ -141,6 +141,13 @@ Some important point regarding static constructor from C# Language Specification
 
 **Q-10. Private Constructor. Private Constructor vs Sealed Class in C#**  
 
+| Private Constructor | Sealed Class | 
+|----------|----------|
+| A private constructor doesn't allow instancing (you can instance a sealed class).  | A sealed class doesn't allow inheritance. That is, you can't derive from it. |
+| When you get deeper into the language, private constructors can be used in scenarios where you're overloading constructors.  | A sealed class cannot be used as a base class. For this reason, it also cannot be an abstract class. |
+| In private Class: We can create a constructor and therefore we can create an instance of that class.  | But In Sealed class we can not create a constructor of that class, so no instance of that class is possible. |
+| Private Constructor of a Private Class = Sealed Class.  | you can create a constructor of a sealed class. Sealed allows you to prevent inheritance but still created instances of a class. |
+| A private constructor prevents both inheritance and instantiation. You should use a private constructor if you wish to use a method to create instances of other classes.  |   |
 
 **Q-11. Singleton vs Static Class**  
 
