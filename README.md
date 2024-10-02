@@ -418,6 +418,18 @@ C# provides a variety of built-in attributes that offer powerful functionalities
 
 ![image](https://github.com/user-attachments/assets/4b28e602-24a5-493a-875c-8a9d9a40b3b7)
 
+The 𝗦𝗢𝗟𝗜𝗗 acronym stands for the following:  
+
+✅ 𝗦𝗶𝗻𝗴𝗹𝗲 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 (𝗦𝗥𝗣): A class should have only one reason to change, meaning it should have only one responsibility or job.  
+
+✅ 𝗢𝗽𝗲𝗻-𝗖𝗹𝗼𝘀𝗲𝗱 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 (𝗢𝗖𝗣): Entities should be open for extension but closed for modification, allowing new functionality to be added without altering existing code.  
+
+✅ 𝗟𝗶𝘀𝗸𝗼𝘃 𝗦𝘂𝗯𝘀𝘁𝗶𝘁𝘂𝘁𝗶𝗼𝗻 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 (𝗟𝗦𝗣): Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program. This ensures that a subclass can stand in for its superclass.  
+
+✅ 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 𝗦𝗲𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 (𝗜𝗦𝗣): Clients should not be forced to depend on interfaces they do not use. It’s preferable to have multiple small, specific interfaces instead of one large, general-purpose interface.  
+
+✅ 𝗗𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝘆 𝗜𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲 (𝗗𝗜𝗣): High-level modules should not depend on low-level modules; both should depend on abstractions. This principle encourages the use of interfaces and abstract classes to reduce coupling.  
+
 **Q-29. Memory Allocation in C#**
 
 
