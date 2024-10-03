@@ -490,7 +490,14 @@ To optimize string manipulation for better performance in C#, consider using the
 - Utilize Span<T> for In-place Manipulation: Use Span<T> for low-level character manipulation without unnecessary allocations.
 - Consider String Pooling: Reuse commonly used strings with string interning or custom string pooling techniques to reduce memory usage.
 
-**Q-37. Difference between Task and Thread**
+**Q-37. Difference between Thread and Task**
+
+| Thread | Task | 
+|----------|----------|
+| A thread represents an independent path of execution within a program. | A task is a higher-level abstraction introduced in the Task Parallel Library (TPL) to represent a unit
+of work. |
+| It is a lightweight unit of execution that operates independently of other threads, and it has its own stack and program counter. | It is designed to simplify asynchronous programming and parallel processing.|
+| Threads are typically used for low-level programming, where you have fine-grained control over the execution flow.| Tasks abstract away the low-level details of thread management and provide a more developer-friendly approach to concurrent programming.|
 
 **Q-38. How do you handle deadlocks in multi-threaded applications in C#?**
 
