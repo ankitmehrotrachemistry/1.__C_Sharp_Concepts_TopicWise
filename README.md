@@ -498,6 +498,17 @@ To optimize string manipulation for better performance in C#, consider using the
 | A thread represents an independent path of execution within a program. | A task is a higher-level abstraction introduced in the Task Parallel Library (TPL) to represent a unit of work. |
 | It is a lightweight unit of execution that operates independently of other threads, and it has its own stack and program counter. | It is designed to simplify asynchronous programming and parallel processing.|
 | Threads are typically used for low-level programming, where you have fine-grained control over the execution flow.| Tasks abstract away the low-level details of thread management and provide a more developer-friendly approach to concurrent programming.|
+| **Scheduling and Execution** |
+| Threads are typically scheduled by the operating system, and the thread scheduler determines when and for how long each thread gets to execute. | Tasks, on the other hand, are scheduled by the TPL's Task Scheduler, which can be customized to use different scheduling strategies. |
+| Developers have little control over the scheduling of threads, except for some basic thread priority settings. | The Task Scheduler dynamically assigns tasks to threads from the underlying ThreadPool, which manages a pool of threads.|
+| | Tasks provide a higher level of abstraction, allowing developers to focus on defining units of work rather than managing individual threads. |
+| **Asynchronous Programming** |
+| Threads can be used for synchronous or blocking operations, where the thread halts until the operation is complete. | Tasks are specifically designed for asynchronous programming and provide built-in support for it. |
+| However, for asynchronous programming, threads can be manually managed by using techniques like thread pooling or creating custom threads. | By using the async and await keywords, you can define asynchronous methods that can be awaited within a task-based programming model. |
+| It requires careful synchronization and coordination to ensure correct execution. | Tasks can leverage 1/0 completion ports and other asynchronous mechanisms to efficiently handle multiple operations without blocking threads.|
+| **Error Handling and Composition**|
+| When an unhandled exception occurs within a thread, it can cause the entire application to crash unless proper exception handling is in place. | Tasks provide better error handling and composition capabilities. Exceptions thrown within a task can be captured using the await keyword or the ContinueWith method to handle them gracefully. |
+| Error handling and composition with threads can be complex, as exceptions need to be explicitly caught and managed within each thread.| Tasks can be composed using various continuation methods, such as ContinueWith, WhenAll, or WhenAny, making it easier to chain multiple tasks and handle errors more effectively.|
 
 **Q-38. How do you handle deadlocks in multi-threaded applications in C#?**
 
