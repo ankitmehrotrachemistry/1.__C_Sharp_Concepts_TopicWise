@@ -494,7 +494,7 @@ To optimize string manipulation for better performance in C#, consider using the
 
 | Thread | Task | 
 |----------|----------|
-| Definition and Purpose |
+| **Definition and Purpose** |
 | A thread represents an independent path of execution within a program. | A task is a higher-level abstraction introduced in the Task Parallel Library (TPL) to represent a unit of work. |
 | It is a lightweight unit of execution that operates independently of other threads, and it has its own stack and program counter. | It is designed to simplify asynchronous programming and parallel processing.|
 | Threads are typically used for low-level programming, where you have fine-grained control over the execution flow.| Tasks abstract away the low-level details of thread management and provide a more developer-friendly approach to concurrent programming.|
