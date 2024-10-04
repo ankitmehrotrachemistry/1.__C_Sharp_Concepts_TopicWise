@@ -16,6 +16,8 @@ Abstract classes have the following features:
 - It is not possible to modify an abstract class with the sealed modifier, which means that the class cannot be inherited.
 - A non-abstract class derived from an abstract class must include actual implementations of all inherited abstract methods and accessors.
 
+![image](https://github.com/user-attachments/assets/96a1d983-3e75-47bf-81b4-bf0337dc6248)
+
 **Q-2. Interface.**  
 
 - Interface = purely abstract class; only signatures, no implementation.
