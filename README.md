@@ -18,6 +18,9 @@ Abstract classes have the following features:
 
 ![image](https://github.com/user-attachments/assets/96a1d983-3e75-47bf-81b4-bf0337dc6248)
 
+![image](https://github.com/user-attachments/assets/29394ff2-e919-4c27-a53c-1d905ed43c3f)
+
+
 **Q-2. Interface.**  
 
 - Interface = purely abstract class; only signatures, no implementation.
