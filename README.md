@@ -468,7 +468,7 @@ CLR handles program execution for various languages including C#. The Common Lan
 
 **Q-33. C# Profiling**
 
-**Q-34. What is garbage collection in C#?**  
+**Q-34. What is garbage collection in C#? Difference between Dispose and Finalize**  
 Garbage collection is the process of freeing up memory that is captured by unwanted objects. When you create a class object, automatically some memory space is allocated to the object in the heap memory. Now, after you perform all the actions on the object, the memory space occupied by the object becomes waste. It is necessary to free up memory.  
 
 Garbage collection happens in three cases:
