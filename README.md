@@ -477,6 +477,8 @@ Garbage collection happens in three cases:
 - If the garbage collection method is called
 - If your system has low physical memory
 
+![image](https://github.com/user-attachments/assets/c9ea660d-c42e-46cb-adb8-da6c2b593f91)
+
 **Q-35. What are some advanced garbage collection techniques in C# to improve performance?**
 
 Advanced garbage collection techniques in C# to improve performance include:
