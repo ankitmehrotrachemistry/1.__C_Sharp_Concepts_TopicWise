@@ -502,7 +502,7 @@ To optimize string manipulation for better performance in C#, consider using the
 - Utilize Span<T> for In-place Manipulation: Use Span<T> for low-level character manipulation without unnecessary allocations.
 - Consider String Pooling: Reuse commonly used strings with string interning or custom string pooling techniques to reduce memory usage.
 
-**Q-37. Difference between Thread and Task**
+**Q-37. Difference between Thread and Task. Advantages of Tasks over Threads**
 
 | Thread | Task | 
 |----------|----------|
@@ -522,6 +522,12 @@ To optimize string manipulation for better performance in C#, consider using the
 | When an unhandled exception occurs within a thread, it can cause the entire application to crash unless proper exception handling is in place. | Tasks provide better error handling and composition capabilities. Exceptions thrown within a task can be captured using the await keyword or the ContinueWith method to handle them gracefully. |
 | Error handling and composition with threads can be complex, as exceptions need to be explicitly caught and managed within each thread.| Tasks can be composed using various continuation methods, such as ContinueWith, WhenAll, or WhenAny, making it easier to chain multiple tasks and handle errors more effectively.|
 
+Advantages of Tasks over Threads:  
+1.Simplified Code.    
+2.Exception handling.    
+3. A Task can return a result, but there is no proper way to return a result from Thread.  
+4. We can apply chaining and parent/ child on multiple tasks, but it can be very difficult in threads.  
+
 **Q-38. How do you handle deadlocks in multi-threaded applications in C#?**
 
 Deadlocks in multi-threaded applications can be handled by following these practices:
@@ -540,6 +546,11 @@ Deadlocks in multi-threaded applications can be handled by following these pract
 
 - Use async/await for asynchronous I/O-bound operations (e.g., file I/O, network requests) that involve waiting without blocking the thread.
 - Use Task.Run for offloading synchronous CPU-bound operations to the background thread (e.g., complex calculations) to prevent blocking the UI thread.
+
+| Async | Await | 
+|----------|----------|
+| An async method in C# is a method that allows for asynchronous execution of code. This means that the method can run in the background while other code is executed, improving the performance and responsiveness of the program.  | |
+
 
 **Q-40. Describe the differences between deep and shallow copying of objects in C#?**
 
