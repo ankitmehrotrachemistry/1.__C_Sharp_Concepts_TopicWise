@@ -114,6 +114,9 @@ for (i = 0; i < 1000; i++)
 
 By using StringBuilder here, you also de-stress the memory allocator.  
 
+![image](https://github.com/user-attachments/assets/4ea160c3-624f-4db6-82df-24f3ed6ab8a4)
+
+
 **Q-8. Difference between an Array and ArrayList** 
 
 | Array | ArrayList | 
