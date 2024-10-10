@@ -157,6 +157,8 @@ Some important point regarding static constructor from C# Language Specification
 | Private Constructor of a Private Class = Sealed Class.  | you can create a constructor of a sealed class.  |
 | A private constructor prevents both inheritance and instantiation. You should use a private constructor if you wish to use a method to create instances of other classes.  |  Sealed allows you to prevent inheritance but still created instances of a class. |
 
+![image](https://github.com/user-attachments/assets/6464fb70-3c38-4087-9af1-7af747d20dd0)
+
 **Q-11. Singleton vs Static Class**  
 
 [Singleton vs Static Class](https://henriquesd.medium.com/singleton-vs-static-class-e6b2b32ec331)  
@@ -527,6 +529,12 @@ Advantages of Tasks over Threads:
 2.Exception handling.    
 3. A Task can return a result, but there is no proper way to return a result from Thread.  
 4. We can apply chaining and parent/ child on multiple tasks, but it can be very difficult in threads.  
+
+| Task | Thread | 
+|----------|----------|
+| Task is a single unit of work. | Thread is a basic unit of CPU Utilization. |
+| Task is something to be done. | Thread are responsible for doing tasks. |
+
 
 **Q-38. How do you handle deadlocks in multi-threaded applications in C#?**
 
