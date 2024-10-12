@@ -32,8 +32,15 @@ Abstract classes have the following features:
 **Q-3. Difference between IEnumerable, IQueryable.**  
 
 [The difference between IEnumerable and IQueryable: An Overview](https://www.scholarhat.com/tutorial/linq/ienumerable-vs-iqueryable)  
-The main difference between IEnumerable and IQueryable lies in their handling of data. IEnumerable is suitable for in-memory collections and supports simple iteration, while IQueryable extends this capability for composing queries against remote data sources, offering deferred execution.
-IEnumerable is slower than IQueryable because IQueryable allows for query optimizations and lazy loading, whereas IEnumerable does not support query optimizations and lazy loading. IEnumerable needs the query execution to happen entirely on the client side.  
+
+| IEnumerable | IQueryable | 
+|----------|----------|
+| IEnumerable exists in System.Collections Namespace. | IQueryable exists in the System. Linq Namespace. |
+| IEnumerable is best for querying data from in-memory collections like List, Array, etc. | IQueryable is best for querying data from out-memory (like remote database, service) collections.|
+| While querying data from a database, IEnumerable executes a select query on the server side, loads data in memory on the client side, and then filters data. | While querying data from a database, IQueryable executes the select query on the server side with all filters.|
+| IEnumerable is suitable for LINQ to Object and LINQ to XML queries. | IQueryable is suitable for LINQ to SQL queries.|
+| IEnumerable doesn’t support custom queries. | IQueryable supports custom queries using CreateQuery and Execute methods.|
+| IEnumerable doesn’t support lazy loading. Hence not suitable for paging-like scenarios. | IQueryable supports lazy loading. Hence it is suitable for paging-like scenarios.|
 
 ▶️ [When to use IEnumerable vs IQueryable?](https://www.youtube.com/watch?v=J2u1DmnE9mU)  
 
