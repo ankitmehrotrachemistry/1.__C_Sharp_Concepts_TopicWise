@@ -42,6 +42,37 @@ Abstract classes have the following features:
 | IEnumerable doesn’t support custom queries. | IQueryable supports custom queries using CreateQuery and Execute methods.|
 | IEnumerable doesn’t support lazy loading. Hence not suitable for paging-like scenarios. | IQueryable supports lazy loading. Hence it is suitable for paging-like scenarios.|
 
+In this example, we create an IEnumerable collection of integers and iterate over it using a foreach loop. With this filtering process happens inside the server, which means in-memory filtering is there.  
+```csharp
+// Assuming this is a collection retrieved from a database
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+
+// IEnumerable query
+IEnumerable<int> query = numbers.Where(n => n > 2);
+
+// In-memory filtering
+foreach (int number in query)
+{
+    Console.WriteLine(number); // Outputs: 3, 4, 5
+}
+```
+
+In this example, we create an IQueryable collection of Employee objects, filtering those in the “Sales” department. The query is executed when we iterate over the collection. Filtering happens inside the database.
+```csharp
+using (var context = new MyDbContext())
+{
+  // IQueryable query
+  IQueryable<Employee> employees = context.Employees.Where(e => e.Department == "Sales");
+
+  // Database filtering
+  foreach (Employee employee in employees)
+  {
+     Console.WriteLine(employee.Name); // Outputs only employees belongs to sales department                 
+  
+  }
+}    
+```
+
 ▶️ [When to use IEnumerable vs IQueryable?](https://www.youtube.com/watch?v=J2u1DmnE9mU)  
 
 ![image](https://github.com/user-attachments/assets/53597d28-e0fb-4408-90f8-6cb86553f8fc)
